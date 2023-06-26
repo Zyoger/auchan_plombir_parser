@@ -1,0 +1,3112 @@
+{
+    "shop": {
+        "name": "Auchan",
+        "url": "https://www.auchan.ru/"
+    },
+    "category": {
+        "name": "plombir",
+        "url": "https://www.auchan.ru/catalog/morozhenoe/plombir/"
+    },
+    "city": [
+        {
+            "name": "moscow",
+            "count_items": 218,
+            "results": [
+                {
+                    "id": 552154,
+                    "title": "Мороженое «Вологодский пломбир» 15% БЗМЖ, 250 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-vologodskiy-plombir-15-250-g",
+                    "regular_price": 182.99,
+                    "sale_price": 109.9,
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 18191942,
+                    "title": "Мороженое пломбир «Русский Холодъ» Настоящий пломбир Сэндвич ванильный БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/mor-sendvich-n-p-bzmzh-100g",
+                    "regular_price": 118.99,
+                    "sale_price": 74.9,
+                    "brand": "Русский Холодъ"
+                },
+                {
+                    "id": 551208,
+                    "title": "Мороженое «Чистая Линия» Московская лакомка шоколадное БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-moskovskaya-lakomka-shokoladnoe-80-g",
+                    "regular_price": 151.99,
+                    "sale_price": 98.9,
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 548653,
+                    "title": "Мороженое эскимо MAGNAT манго красные ягоды в шоколаде БЗМЖ, 74 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-magnat-eskimo-mango-krasnye-yagody-v-shokolade-74-g",
+                    "regular_price": 129.99,
+                    "sale_price": 84.9,
+                    "brand": "MAGNAT"
+                },
+                {
+                    "id": 14369328,
+                    "title": "Мороженое «Жемчужина России» Рулет карамель с орехами, 400 г",
+                    "url": "https://www.auchan.ru/product/rulet-karamel-s-orehami-400gr",
+                    "regular_price": 304.99,
+                    "sale_price": 199.9,
+                    "brand": "Жемчужина России"
+                },
+                {
+                    "id": 229587,
+                    "title": "Мороженое пломбир «Золотой Стандарт» шоколадный БЗМЖ, 86 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-zolotoy-standart-shokoladnyy-86-g",
+                    "regular_price": 74.99,
+                    "sale_price": 49.9,
+                    "brand": "Золотой Стандарт"
+                },
+                {
+                    "id": 225895,
+                    "title": "Мороженое пломбир «Золотой Стандарт» со сливками БЗМЖ, 86 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-zolotoy-standart-so-slivkami-86-g",
+                    "regular_price": 74.49,
+                    "sale_price": 49.9,
+                    "brand": "Золотой Стандарт"
+                },
+                {
+                    "id": 18118525,
+                    "title": "Мороженое OREO Рожок БЗМЖ, 72 г",
+                    "url": "https://www.auchan.ru/product/oreo-rozhok-72g-bzmzh",
+                    "regular_price": 111.99,
+                    "sale_price": 74.9,
+                    "brand": "OREO"
+                },
+                {
+                    "id": 229593,
+                    "title": "Мороженое пломбир «Золотой Стандарт» черника БЗМЖ, 89 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-zolotoy-standart-chernika-89-g",
+                    "regular_price": 74.99,
+                    "sale_price": 49.9,
+                    "brand": "Золотой Стандарт"
+                },
+                {
+                    "id": 17959380,
+                    "title": "Мороженое пломбир «Золотой Стандарт» Классический в вафельном стаканчике, 95 г",
+                    "url": "https://www.auchan.ru/product/mor-zs-plom-klas-vf-st95g-bzmzh",
+                    "regular_price": 74.99,
+                    "sale_price": 49.9,
+                    "brand": "Золотой Стандарт"
+                },
+                {
+                    "id": 903617,
+                    "title": "Мороженое эскимо MAGNAT в шоколаде Шоколадный трюфель, 72 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-eskimo-magnat-v-shokolade-shokoladnyy-tryufel-72-g",
+                    "regular_price": 124.99,
+                    "sale_price": 84.9,
+                    "brand": "MAGNAT"
+                },
+                {
+                    "id": 267592,
+                    "title": "Мороженое эскимо «Магнат» в шоколаде Брюнетка БЗМЖ, 82 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-eskimo-magnat-v-shokolade-bryunetka-82-g",
+                    "regular_price": 123.99,
+                    "sale_price": 84.9,
+                    "brand": "MAGNAT"
+                },
+                {
+                    "id": 18132641,
+                    "title": "Мороженое пломбир «Талосто» Классическая Венеция двухслойное ваниль манго БЗМЖ, 450 г",
+                    "url": "https://www.auchan.ru/product/mor-rulet-venec-mango450g-bzmzh",
+                    "regular_price": 334.99,
+                    "sale_price": 229,
+                    "brand": "Талосто"
+                },
+                {
+                    "id": 235832,
+                    "title": "Мороженое эскимо MAGNAT в шоколаде Миндаль, 73 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-eskimo-magnat-v-shokolade-mindal-73-g",
+                    "regular_price": 123.99,
+                    "sale_price": 84.9,
+                    "brand": "MAGNAT"
+                },
+                {
+                    "id": 10786574,
+                    "title": "Мороженое пломбир «Зелена-Бурена» На сливках с ванилью 14%, 70 г",
+                    "url": "https://www.auchan.ru/product/mor-esk-plom-na-sl-70gr-bzmzh",
+                    "regular_price": 64.99,
+                    "sale_price": 44.9,
+                    "brand": "Зелёна-Бурёна"
+                },
+                {
+                    "id": 236093,
+                    "title": "Мороженое пломбир «48 Копеек» рожок с вареньем из черной смородины БЗМЖ, 111 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-48-kopeek-rozhok-chernaya-smorodina-111-g",
+                    "regular_price": 120.99,
+                    "sale_price": 84.9,
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 567866,
+                    "title": "Мороженое «48 Копеек» Шоколадное БЗМЖ, 232 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-48-kopeek-plombir-shokoladnyy-232-g",
+                    "regular_price": 156.99,
+                    "sale_price": 109.9,
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 8338891,
+                    "title": "Мороженое пломбир «Вкусландия» грецкий орех с кленовым сиропом, 450 г",
+                    "url": "https://www.auchan.ru/product/mor_kls_grecor_vkusl_450gbzmzh",
+                    "regular_price": 498.99,
+                    "sale_price": 349,
+                    "brand": "Вкусландия"
+                },
+                {
+                    "id": 549715,
+                    "title": "Мороженое пломбир «48 Копеек» БЗМЖ, 210 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-48-kopeek-plombir-400-g",
+                    "regular_price": 156.49,
+                    "sale_price": 109.9,
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 18265171,
+                    "title": "Мороженое пломбир «Лакомство Колибри» ванильный с черной смородиной в сахарном рожке, 100 г",
+                    "url": "https://www.auchan.ru/product/mor-rozhok-van-ch-sm-kol-zmzh100g",
+                    "regular_price": 51.99,
+                    "sale_price": 36.9,
+                    "brand": "Лакомство Колибри"
+                },
+                {
+                    "id": 552307,
+                    "title": "Мороженое «48 Копеек» пломбир малина, 90 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-48-kopeek-plombir-malina-90-g",
+                    "regular_price": 95.99,
+                    "sale_price": 69.9,
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 18118512,
+                    "title": "Мороженое «48 Копеек» манго со сливками БЗМЖ, 94 г",
+                    "url": "https://www.auchan.ru/product/48-kopeek-stakan-mango-94g",
+                    "regular_price": 95.99,
+                    "sale_price": 69.9,
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 3159109,
+                    "title": "Мороженое пломбир «Свитлогорье» двухслойное эскимо ванильный и шоколадный в сливочной какаосодержащей глазури 15% БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-svitlogore-dvuhsloynoe-eskimo-vanilnyy-i-shokoladnyy-v-slivochnoy-kakaosoderzhashchey-glazuri-15-80-g",
+                    "regular_price": 82.49,
+                    "sale_price": 59.9,
+                    "brand": "Свитлогорье"
+                },
+                {
+                    "id": 14714082,
+                    "title": "Мороженое «Свитлогорье» двухслойное Золотая ириска в карамельной глазури БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/mor-syrok-van-zol-ir-80gbzmzh",
+                    "regular_price": 82.49,
+                    "sale_price": 59.9,
+                    "brand": "Свитлогорье"
+                },
+                {
+                    "id": 549718,
+                    "title": "Мороженое «48 Копеек» пломбир, 106 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-48-kopeek-plombir-106-g",
+                    "regular_price": 114.99,
+                    "sale_price": 84.9,
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 15254489,
+                    "title": "Мороженое пломбир «Коровка из Кореновки» крем-брюле в карамельной глазури БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/mor-eskimo-krem-br-70-grbzmzh",
+                    "regular_price": 94.99,
+                    "sale_price": 69.9,
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 547821,
+                    "title": "Мороженое пломбир «Ленинградское» батончик сливочный в шоколадной глазури БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-leningradskoe-batonchik-slivochnyy-v-shokoladnoy-glazuri-80-g",
+                    "regular_price": 52.99,
+                    "sale_price": 39.9,
+                    "brand": "Ленинградское"
+                },
+                {
+                    "id": 567924,
+                    "title": "Мороженое пломбир «Золотой Стандарт» классический БЗМЖ, 475 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-zolotoy-standart-klassicheskiy-475-g",
+                    "regular_price": 427.99,
+                    "sale_price": 319,
+                    "brand": "Золотой Стандарт"
+                },
+                {
+                    "id": 907338,
+                    "title": "Мороженое «48 Копеек» Шоколадная Прага БЗМЖ, 432 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-48-kopeek-shokoladnaya-praga-432-g",
+                    "regular_price": 548.49,
+                    "sale_price": 409,
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 14446104,
+                    "title": "Мороженое пломбир «КоЛибри» ванильное с шоколадной глазурью в сахарном рожке 12% БЗМЖ, 90 г",
+                    "url": "https://www.auchan.ru/product/mor-rozh-kol-sl-shok-90g-bzmzhzh",
+                    "regular_price": 48.99,
+                    "sale_price": 36.9,
+                    "brand": "КоЛибри"
+                },
+                {
+                    "id": 1702236,
+                    "title": "Мороженое эскимо «Свитлогорье» пломбир ванильный в сливочной какаосодержащей глазури эскимо 15%, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-eskimo-svitlogore-plombir-vanilnyy-v-slivochnoy-kakaosoderzhashchey-glazuri-eskimo-15-80-g",
+                    "regular_price": 79.99,
+                    "sale_price": 59.9,
+                    "brand": "Свитлогорье"
+                },
+                {
+                    "id": 10721869,
+                    "title": "Мороженое Bahroma Эскимо двухслойный Fondant Трюфель-Красный апельсин, 75г",
+                    "url": "https://www.auchan.ru/product/morozh-esk-bahr-kr-apel-75gbzm",
+                    "regular_price": 103.99,
+                    "sale_price": 79.9,
+                    "brand": "BAHROMA"
+                },
+                {
+                    "id": 236082,
+                    "title": "Мороженое эскимо Milka Ванильное в молочном шоколаде БЗМЖ, 62 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-eskimo-milka-62-g",
+                    "regular_price": 113.99,
+                    "sale_price": 87.9,
+                    "brand": "Milka"
+                },
+                {
+                    "id": 18104263,
+                    "title": "Мороженое «48 Копеек» Клубничный Десерт БЗМЖ, 243 г",
+                    "url": "https://www.auchan.ru/product/48-brik-klubnichnyy-desert-243g",
+                    "regular_price": 136.99,
+                    "sale_price": 109.9,
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 15926972,
+                    "title": "Мороженое Monterra Грецкий орех с кленовым сиропом БЗМЖ, 298 г",
+                    "url": "https://www.auchan.ru/product/mor-monterra-grecoreh298gbzmzh",
+                    "regular_price": 521.99,
+                    "sale_price": 439.9,
+                    "brand": "Monterra"
+                },
+                {
+                    "id": 133486,
+                    "title": "Мороженое «Чистая линия» Лакомка БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-lakomka-80-g",
+                    "regular_price": 113.49,
+                    "sale_price": 98.9,
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 138571,
+                    "title": "Мороженое АШАН Красная птица пломбир шоколадный в вафельном стаканчике БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-auchan-krasnaya-ptica-plombir-shokoladnyy-v-vafelnom-stakanchike-70-g",
+                    "regular_price": 33.99,
+                    "sale_price": 29.9,
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 138570,
+                    "title": "Мороженое АШАН Красная птица пломбир ванильный в вафельном стаканчике БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-auchan-krasnaya-ptica-plombir-vanilnyy-v-vafelnom-stakanchike-70-g",
+                    "regular_price": 33.99,
+                    "sale_price": 29.9,
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 567949,
+                    "title": "Мороженое пломбир АШАН Красная птица Крем-брюле БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-auchan-krasnaya-ptica-krem-bryule-70-g",
+                    "regular_price": 33.99,
+                    "sale_price": 29.9,
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 5894946,
+                    "title": "Мороженое пломбир «Эконива» ваниль, 70 г",
+                    "url": "https://www.auchan.ru/product/moreskplombvanen_70gr_bzmzh",
+                    "regular_price": 56.99,
+                    "sale_price": "",
+                    "brand": "Эконива"
+                },
+                {
+                    "id": 103350,
+                    "title": "Мороженое пломбир «Чистая Линия» Эскимо российское в шоколадной глазури БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-eskimo-rossiyskoe-80-g",
+                    "regular_price": 129.49,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 103351,
+                    "title": "Мороженое пломбир «Чистая линия» Семейный ванильный БЗМЖ, 450 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-plombir-semeynyy-vanilnyy-450-g",
+                    "regular_price": 476.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 131158,
+                    "title": "Мороженое АШАН Красная птица пломбир клубничный БЗМЖ, 110 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-auchan-krasnaya-ptica-plombir-klubnichnyy-110-g",
+                    "regular_price": 69.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 103570,
+                    "title": "Мороженое пломбир АШАН Красная птица ванильный БЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-krasnaya-ptica-vanna-plombir-vanilnyy-500g",
+                    "regular_price": 260.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 12999321,
+                    "title": "Мороженое пломбир АШАН Красная птица крем-брюле БЗМЖ, 200 г",
+                    "url": "https://www.auchan.ru/product/mor-bzmzh-brik-krem-200g",
+                    "regular_price": 98.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 12999312,
+                    "title": "Мороженое пломбир АШАН Красная птица с шоколадной крошкой БЗМЖ, 200 г",
+                    "url": "https://www.auchan.ru/product/mor-bzmzh-pl-s-shok-krosh-200g",
+                    "regular_price": 98.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 12999314,
+                    "title": "Мороженое пломбир АШАН Красная птица ванильный на вафлях БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/mor-bzmzh-van-plomb-v-vaf-80g",
+                    "regular_price": 41.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 103571,
+                    "title": "Мороженое пломбир АШАН Красная птица шоколадный БЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-krasnaya-ptica-vanna-plombir-shokoladnyy-500g",
+                    "regular_price": 260.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 550946,
+                    "title": "Мороженое АШАН Красная птица пломбир со вкусом фисташки БЗМЖ, 110 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-auchan-krasnaya-ptica-plombir-so-vkusom-fistashki-110-g",
+                    "regular_price": 69.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 12999319,
+                    "title": "Мороженое пломбир АШАН Красная птица ванильный БЗМЖ, 200 г",
+                    "url": "https://www.auchan.ru/product/mor-bzmzh-brik-vanil-200g",
+                    "regular_price": 98.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 12999320,
+                    "title": "Мороженое пломбир АШАН Красная птица шоколадный БЗМЖ, 200 г",
+                    "url": "https://www.auchan.ru/product/mor-bzmzh-plomb-shok-200g",
+                    "regular_price": 98.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 138572,
+                    "title": "Мороженое пломбир АШАН Красная птица клубничный БЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-krasnaya-ptica-vanna-plombir-klubnichnyy-500g",
+                    "regular_price": 260.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 131156,
+                    "title": "Мороженое АШАН Красная птица пломбир ванильный в сахарном рожке БЗМЖ, 110 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-auchan-krasnaya-ptica-plombir-vanilnyy-v-saharnom-rozhke-110-g",
+                    "regular_price": 69.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 131157,
+                    "title": "Мороженое АШАН Красная птица пломбир шоколадный в сахарном рожке БЗМЖ, 110 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-auchan-krasnaya-ptica-plombir-shokoladnyy-v-saharnom-rozhke-110-g",
+                    "regular_price": 69.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 15024031,
+                    "title": "Мороженое пломбир «Айскейк» Мятное с шоколадом БЗМЖ, 130 мл",
+                    "url": "https://www.auchan.ru/product/morozh-myatnoe-s-shok-130ml-75g",
+                    "regular_price": 122.99,
+                    "sale_price": "",
+                    "brand": "Айскейк"
+                },
+                {
+                    "id": 1007008,
+                    "title": "Мороженое «Юбилейное» шоколадное ЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-yubileynoe-shokoladnoe-800-g",
+                    "regular_price": 151.99,
+                    "sale_price": "",
+                    "brand": "Юбилейное"
+                },
+                {
+                    "id": 8338937,
+                    "title": "Мороженое пломбир «Чистая Линия» Семейное шоколадное, 450 г",
+                    "url": "https://www.auchan.ru/product/semeynoe_shokolad_plombir_450g",
+                    "regular_price": 598.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 14338474,
+                    "title": "Мороженое эскимо «Вологодский пломбир» пломбир с пюре манго, 60 г",
+                    "url": "https://www.auchan.ru/product/eskimo-volog-plom-mango-60g",
+                    "regular_price": 104.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 18132629,
+                    "title": "Мороженое пломбир «Вологодский пломбир» с черной смородиной, 250 г",
+                    "url": "https://www.auchan.ru/product/mor-briket-chern-smorod-250g-vp",
+                    "regular_price": 246.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 18265172,
+                    "title": "Мороженое пломбир «Лакомство Колибри» Ежик глазированный с арахисом в вафельном стаканчике, 75 г",
+                    "url": "https://www.auchan.ru/product/mor-vaf-st-van-gl-oreh-zmzh-75g",
+                    "regular_price": 40.99,
+                    "sale_price": "",
+                    "brand": "Лакомство Колибри"
+                },
+                {
+                    "id": 567911,
+                    "title": "Мороженое пломбир «Петрохолод» Золотая трубочка ванильный БЗМЖ, 60 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-zolotaya-trubochka-plombir-vanilnyy-60-g",
+                    "regular_price": 37.99,
+                    "sale_price": "",
+                    "brand": "Петрохолод"
+                },
+                {
+                    "id": 550672,
+                    "title": "Мороженое «Коровка из Кореновки» пломбир ванильный с черной смородиной 15% БЗМЖ, 400 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-korovka-iz-korenovki-plombir-vanilnyy-s-chernoy-smorodinoy-15-400-g",
+                    "regular_price": 300.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 101422,
+                    "title": "Мороженое «Чистая Линия» пломбир ванильный в вафельном стаканчике БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-plombir-vanilnyy-v-vafelnom-stakanchike-80-g",
+                    "regular_price": 86.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 6572962,
+                    "title": "Мороженое пломбир «Большой папа» с клубникой рожок, 130 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-bolshoy-papa-s-klubnikoy-rozhok-130-g",
+                    "regular_price": 120.49,
+                    "sale_price": "",
+                    "brand": "Большой папа"
+                },
+                {
+                    "id": 1702587,
+                    "title": "Мороженое «Бон Пари» Кошмарики десет ягодный, 59 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-nestle-bon-pari-koshmariki-deset-yagodnyy-59-g",
+                    "regular_price": 84.99,
+                    "sale_price": "",
+                    "brand": "Бон Пари"
+                },
+                {
+                    "id": 552156,
+                    "title": "Мороженое «Вологодский пломбир» шоколадный, 250 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-vologodskiy-plombir-shokoladnyy-250-g",
+                    "regular_price": 197.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 550775,
+                    "title": "Мороженое Cornetto Единорог клубника баббл гам черная смородина БЗМЖ, 74 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-cornetto-edinorog-klubnika-babbl-gam-chernaya-smorodina-74-g",
+                    "regular_price": 86.99,
+                    "sale_price": "",
+                    "brand": "Cornetto"
+                },
+                {
+                    "id": 14840283,
+                    "title": "Мороженое пломбир «Русский Холодъ» Настоящий пломбир ванильный БЗМЖ, 1 кг",
+                    "url": "https://www.auchan.ru/product/morozh-nast-plomb-vanil-1000g",
+                    "regular_price": 515.99,
+                    "sale_price": "",
+                    "brand": "Русский Холодъ"
+                },
+                {
+                    "id": 18118511,
+                    "title": "Мороженое пломбир «48 Копеек» БЗМЖ, 419 г",
+                    "url": "https://www.auchan.ru/product/48-kopeek-vanna-plombir-419g",
+                    "regular_price": 384.99,
+                    "sale_price": "",
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 549744,
+                    "title": "Мороженое «Чистая Линия» пломбир ваниль БЗМЖ, 110 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-plombir-vanil-110-g",
+                    "regular_price": 144.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 550782,
+                    "title": "Мороженое «Чистая Линия» пломбир крем-брюле БЗМЖ, 200 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-plombir-krem-bryule-200-g",
+                    "regular_price": 224.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 6572995,
+                    "title": "Мороженое рожок «Большой папа» пломбир с мягкой карамелью, 130 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-rozhok-bolshoy-papa-plombir-s-myagkoy-karamelyu-130-g",
+                    "regular_price": 121.49,
+                    "sale_price": "",
+                    "brand": "Большой папа"
+                },
+                {
+                    "id": 547961,
+                    "title": "Мороженое пломбир «Чистая линия» крем-брюле, 110 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-chistaya-liniya-krem-bryule-110-g",
+                    "regular_price": 152.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 18191940,
+                    "title": "Мороженое пломбир «Русский Холодъ» Настоящий пломбир ванильный БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/eskimo-nast-plomb-van-bzmzh-70g",
+                    "regular_price": 72.99,
+                    "sale_price": "",
+                    "brand": "Русский Холодъ"
+                },
+                {
+                    "id": 14326174,
+                    "title": "Мороженое пломбир Milk Republic Беларускi пламбiр с ароматом ванили 15% БЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/mor-vanil-mesh-15-500g",
+                    "regular_price": 416.99,
+                    "sale_price": "",
+                    "brand": "Milk Republic"
+                },
+                {
+                    "id": 16755670,
+                    "title": "Мороженое пломбир «Лакомство Колибри» вишня-ром БЗМЖ, 250 г",
+                    "url": "https://www.auchan.ru/product/mor-sliv-vishnya-kolib-lotok250g",
+                    "regular_price": 178.99,
+                    "sale_price": "",
+                    "brand": "Лакомство Колибри"
+                },
+                {
+                    "id": 136563,
+                    "title": "Мороженое «Гроспирон» пломбир шоколадный бумажное ведро БЗМЖ, 410 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-grospiron-plombir-shokoladnyy-bumazhnoe-vedro-410-g",
+                    "regular_price": 332.99,
+                    "sale_price": "",
+                    "brand": "Гроспирон"
+                },
+                {
+                    "id": 18436814,
+                    "title": "Мороженое пломбир «Мишка на полюсе» с соком якутской клюквы и брусники, 75 г",
+                    "url": "https://www.auchan.ru/product/eskimo-mishka-polyuse-kl-br-75g",
+                    "regular_price": 64.99,
+                    "sale_price": "",
+                    "brand": "Мишка на полюсе"
+                },
+                {
+                    "id": 16755672,
+                    "title": "Мороженое ванильное «Время Летать» с черничным наполнителем ЗМЖ, 450 г",
+                    "url": "https://www.auchan.ru/product/mor-van-chern-vr-letat-lot450g",
+                    "regular_price": 304.99,
+                    "sale_price": "",
+                    "brand": "Время Летать"
+                },
+                {
+                    "id": 18560666,
+                    "title": "Мороженое «Свитлогорье» двухслойное пломбир ванильный с шоколадом Трубочка 15% БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/mor-plom-trub-vanshok-sv-80bzmzh",
+                    "regular_price": 83.99,
+                    "sale_price": "",
+                    "brand": "Свитлогорье"
+                },
+                {
+                    "id": 133421,
+                    "title": "Мороженое «Настоящий Пломбир» пломбир ванильный в сахарном рожке БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-nastoyashchiy-plombir-plombir-vanilnyy-v-saharnom-rozhke-100-g",
+                    "regular_price": 72.99,
+                    "sale_price": "",
+                    "brand": "НАСТОЯЩИЙ ПЛОМБИР"
+                },
+                {
+                    "id": 547597,
+                    "title": "Мороженое «Чистая Линия» Ленинградское пломбир ванильный БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-leningradskoe-plombir-vanilnyy-80-g",
+                    "regular_price": 163.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 220057,
+                    "title": "Мороженое «Лекарство для Карлсона» ванильное в вафельном стаканчике ЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-lekarstvo-dlya-karlsona-vanilnoe-v-vafelnom-stakanchike-70-g",
+                    "regular_price": 24.99,
+                    "sale_price": "",
+                    "brand": "Лекарство для Карлсона"
+                },
+                {
+                    "id": 14843295,
+                    "title": "Мороженое пломбир «Русский Холодъ» Настоящий пломбир шоколадный Супергигант в сахарном рожке БЗМЖ, 150 г",
+                    "url": "https://www.auchan.ru/product/rozhok-nast-pl-shokol-150g-bzmzh",
+                    "regular_price": 124.99,
+                    "sale_price": "",
+                    "brand": "Русский Холодъ"
+                },
+                {
+                    "id": 8256713,
+                    "title": "Мороженое «Каждый день» вафельный стаканчик ванильный ЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/kdmorozhenoe_stakan_vanil_70g",
+                    "regular_price": 13.98,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 8256732,
+                    "title": "Мороженое «Каждый день» вафельный стаканчик шоколадный ЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/kdmorozhenoe_stakan_shokol_70g",
+                    "regular_price": 18.98,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 10732967,
+                    "title": "Мороженое «Русский Холодъ» Настоящий пломбир Супер гигант шоколадное в вафельном стаканчике БЗМЖ, 150 г",
+                    "url": "https://www.auchan.ru/product/morozh-nast-plomb-shok-st150g",
+                    "regular_price": 113.99,
+                    "sale_price": "",
+                    "brand": "Русский Холодъ"
+                },
+                {
+                    "id": 546441,
+                    "title": "Мороженое пломбир «48 Копеек» стаканчик БЗМЖ, 88 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-48-kopeek-plombir-88-g",
+                    "regular_price": 65.99,
+                    "sale_price": "",
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 907259,
+                    "title": "Мороженое «Коровка из Кореновки» пломбир ванильный с шоколадной крошкой 15% БЗМЖ, 400 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-korovka-iz-korenovki-plombir-vanilnyy-s-shokoladnoy-kroshkoy-15-400-g",
+                    "regular_price": 318.49,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 14314122,
+                    "title": "Мороженое пломбир «КоЛибри» с мягкой карамелью ЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/rozhok-van-kar-kolibri100g-zmzh",
+                    "regular_price": 48.99,
+                    "sale_price": "",
+                    "brand": "КоЛибри"
+                },
+                {
+                    "id": 907825,
+                    "title": "Мороженое «Коровка из Кореновки» пломбир ванильный 15% БЗМЖ, 400 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-korovka-iz-korenovki-plombir-vanilnyy-15-400-g",
+                    "regular_price": 278.49,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 14446103,
+                    "title": "Мороженое пломбир «КоЛибри» Крем-брюле в сахарном рожке 12% БЗМЖ, 90 г",
+                    "url": "https://www.auchan.ru/product/mor-rozh-kol-sl-kr-br-90g-bzmzh",
+                    "regular_price": 48.99,
+                    "sale_price": "",
+                    "brand": "КоЛибри"
+                },
+                {
+                    "id": 18112472,
+                    "title": "Мороженое «Свитлогорье» двухслойное пломбир в вафельном рожке 15% БЗМЖ, 110 г",
+                    "url": "https://www.auchan.ru/product/mor-rozhok-vanshok-svitl-110bzmzh",
+                    "regular_price": 92.99,
+                    "sale_price": "",
+                    "brand": "Свитлогорье"
+                },
+                {
+                    "id": 18112474,
+                    "title": "Мороженое «Свитлогорье» двухслойное Трубочка Золотая Ириска 15% БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/mor-plom-trub-zol-ir-sv-80bzmzh",
+                    "regular_price": 83.99,
+                    "sale_price": "",
+                    "brand": "Свитлогорье"
+                },
+                {
+                    "id": 14349649,
+                    "title": "Мороженое пломбир «Свитлогорье» Золотая ириска двухслойное в вафельном стаканчике 15% БЗМЖ, 105 г",
+                    "url": "https://www.auchan.ru/product/mor-stak-van-shok-svitl-80bzmzh",
+                    "regular_price": 85.99,
+                    "sale_price": "",
+                    "brand": "Свитлогорье"
+                },
+                {
+                    "id": 8256734,
+                    "title": "Мороженое «Каждый день» Щербет клюквенный, 80 г",
+                    "url": "https://www.auchan.ru/product/kdmorozhenoe_scherbet_klyukva_80g",
+                    "regular_price": 25.99,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 14326168,
+                    "title": "Мороженое пломбир Milk Republic Беларускi пламбiр с ароматом ванили с изюмом в вафельном стаканчике 15% БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/mor-vaf-st-van-izyum-15-80g",
+                    "regular_price": 75.99,
+                    "sale_price": "",
+                    "brand": "Milk Republic"
+                },
+                {
+                    "id": 14353232,
+                    "title": "Мороженое пломбир «Ленинградское» с клубникой в сахарном рожке БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/rozhok-leningradskoe-s-klub100g",
+                    "regular_price": 70.99,
+                    "sale_price": "",
+                    "brand": "Ленинградское"
+                },
+                {
+                    "id": 18132624,
+                    "title": "Мороженое пломбир «Жемчужина России» с ароматом вишни и фисташки в вафельном стаканчике, 90 г",
+                    "url": "https://www.auchan.ru/product/stakan-vish-fist-90g-zhemch-ross",
+                    "regular_price": 73.99,
+                    "sale_price": "",
+                    "brand": "Жемчужина России"
+                },
+                {
+                    "id": 14326171,
+                    "title": "Мороженое пломбир Milk Republic Беларускi пламбiр с ароматом ванили в брикете на вафлях 15% БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/mor-brik-vaf-van-15-100g",
+                    "regular_price": 99.99,
+                    "sale_price": "",
+                    "brand": "Milk Republic"
+                },
+                {
+                    "id": 15024032,
+                    "title": "Мороженое пломбир «Айскейк» Мятное с брауни БЗМЖ, 500 мл",
+                    "url": "https://www.auchan.ru/product/morozh-myatnoe-s-brauni-500-330g",
+                    "regular_price": 390.99,
+                    "sale_price": "",
+                    "brand": "Айскейк"
+                },
+                {
+                    "id": 8341549,
+                    "title": "Мороженое пломбир «Золотой стандарт» классический со вкусом сливок, 400 г",
+                    "url": "https://www.auchan.ru/product/morplombklaszs_400gr_bzmzh",
+                    "regular_price": 253.99,
+                    "sale_price": "",
+                    "brand": "Золотой Стандарт"
+                },
+                {
+                    "id": 6572966,
+                    "title": "Мороженое пломбир «Большой папа» ванильный с клубничным джемом 12%, 450 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-bolshoy-papa-vanilnyy-s-klubnichnym-dzhemom-12-450-g",
+                    "regular_price": 306.99,
+                    "sale_price": "",
+                    "brand": "Большой папа"
+                },
+                {
+                    "id": 18265175,
+                    "title": "Мороженое пломбир «Лакомство Колибри» Пломбир на натуральных сливках в вафельном стаканчике, 70 г",
+                    "url": "https://www.auchan.ru/product/mor-vaf-st-plom-bez-e-bzmzh-70g",
+                    "regular_price": 75.99,
+                    "sale_price": "",
+                    "brand": "Лакомство Колибри"
+                },
+                {
+                    "id": 15926969,
+                    "title": "Мороженое Monterra Тирамису БЗМЖ, 277 г",
+                    "url": "https://www.auchan.ru/product/mor-monterra-tiramisu-277gbzmzh",
+                    "regular_price": 439.9,
+                    "sale_price": "",
+                    "brand": "Monterra"
+                },
+                {
+                    "id": 18295346,
+                    "title": "Мороженое пломбир «Советский стандарт» с клюквой и брусникой в вафельном стаканчике, 80 г",
+                    "url": "https://www.auchan.ru/product/plomb-klyuk-brus-v-vaf-stak-80g",
+                    "regular_price": 73.99,
+                    "sale_price": "",
+                    "brand": "Советский стандарт"
+                },
+                {
+                    "id": 15024029,
+                    "title": "Мороженое пломбир «Айскейк» Джиандуйя с фундучно-шоколадным вкусом БЗМЖ, 130 мл",
+                    "url": "https://www.auchan.ru/product/morozh-dzhianduyya-funduch-shok-130",
+                    "regular_price": 134.99,
+                    "sale_price": "",
+                    "brand": "Айскейк"
+                },
+                {
+                    "id": 16155131,
+                    "title": "Мороженое Monterra Фисташковое БЗМЖ, 287 г",
+                    "url": "https://www.auchan.ru/product/mor-monterra-fistashka-287gbzmzh",
+                    "regular_price": 407.99,
+                    "sale_price": "",
+                    "brand": "Monterra"
+                },
+                {
+                    "id": 14840271,
+                    "title": "Мороженое пломбир «Русский Холодъ» Настоящий пломбир Гигант на вафлях, 120 г",
+                    "url": "https://www.auchan.ru/product/briket-nast-plombir-120g-bzmzh",
+                    "regular_price": 97.99,
+                    "sale_price": "",
+                    "brand": "Русский Холодъ"
+                },
+                {
+                    "id": 15243581,
+                    "title": "Мороженое пломбир «Коровка из Кореновки» ванильное с шоколадной крошкой, 80 г",
+                    "url": "https://www.auchan.ru/product/mor_plom__s_shokkr_stak_80g",
+                    "regular_price": 85.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 134277,
+                    "title": "Мороженое «Лекарство для Карлсона» ванильное с шоколадным топингом в контейнере ЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-lekarstvo-dlya-karlsona-vanilnoe-s-shokoladnym-topingom-v-konteynere-500-g",
+                    "regular_price": 230.99,
+                    "sale_price": "",
+                    "brand": "Лекарство для Карлсона"
+                },
+                {
+                    "id": 18191943,
+                    "title": "Мороженое пломбир «Русский Холодъ» Настоящий пломбир фисташковый в сахарном рожке БЗМЖ, 110 г",
+                    "url": "https://www.auchan.ru/product/mor-rozhok-n-p-fist-bzmzh-110g",
+                    "regular_price": 102.99,
+                    "sale_price": "",
+                    "brand": "Русский Холодъ"
+                },
+                {
+                    "id": 5471549,
+                    "title": "Мороженое «Русский Холодъ» Настоящий пломбир шоколадный БЗМЖ, 230 г",
+                    "url": "https://www.auchan.ru/product/morshok_brik_np_230gr_bzmzh",
+                    "regular_price": 171.99,
+                    "sale_price": "",
+                    "brand": "Русский Холодъ"
+                },
+                {
+                    "id": 549394,
+                    "title": "Мороженое «Вологодский Пломбир» на вареной сгущенке БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-vologodskiy-plombir-na-varenoy-sgushchenke-100-g",
+                    "regular_price": 79.49,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 5471853,
+                    "title": "Мороженое эскимо Paleta Эквадорский кокос-Шоколад БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/morkokshokpaleta_70gr_bzmzh",
+                    "regular_price": 115.99,
+                    "sale_price": "",
+                    "brand": "Paleta"
+                },
+                {
+                    "id": 551217,
+                    "title": "Мороженое «Вологодский пломбир» 15% БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-vologodskiy-plombir-15-100-g",
+                    "regular_price": 87.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 551207,
+                    "title": "Мороженое «Чистая Линия» пломбир крем-брюле, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-plombir-krem-bryule-80-g",
+                    "regular_price": 107.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 8256751,
+                    "title": "Мороженое «Каждый день» рожок ванильный ЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/kdmorozh_vanil_rozhok_100g",
+                    "regular_price": 28.98,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 11839664,
+                    "title": "Мороженое «Коровка из Кореновки» пломбир двухслойный ваниль и манго-маракуйя БЗМЖ, 400 г",
+                    "url": "https://www.auchan.ru/product/mor_plom_mang_marak_400gkiz",
+                    "regular_price": 305.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 8256619,
+                    "title": "Мороженое «Каждый день» рожок крем-брюле ЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/kdmorozh_kr_br_rozhok_100g",
+                    "regular_price": 30.99,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 18191944,
+                    "title": "Мороженое пломбир «Монарх» йогурт красный виноград БЗМЖ, 330 г",
+                    "url": "https://www.auchan.ru/product/mor-monarh-yog-vin-bzmzh-330g",
+                    "regular_price": 498.99,
+                    "sale_price": "",
+                    "brand": "Монарх"
+                },
+                {
+                    "id": 18292192,
+                    "title": "Мороженое Maxiduo вафельный mix БЗМЖ, 63 г",
+                    "url": "https://www.auchan.ru/product/maksiduo-vaf-mix-63gbzmzh",
+                    "regular_price": 71.99,
+                    "sale_price": "",
+                    "brand": "Maxiduo"
+                },
+                {
+                    "id": 906555,
+                    "title": "Мороженое «Коровка из Кореновки» пломбир ванильный в шоколаде 15% БЗМЖ, 90 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-korovka-iz-korenovki-plombir-vanilnyy-v-shokolade-15-90-g",
+                    "regular_price": 82.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 17959379,
+                    "title": "Мороженое пломбир «Золотой Стандарт» Трио со сливками, 180 г",
+                    "url": "https://www.auchan.ru/product/mor-zs-plmbr-3-vkusa-180g-bzmzh",
+                    "regular_price": 133.99,
+                    "sale_price": "",
+                    "brand": "Золотой Стандарт"
+                },
+                {
+                    "id": 18118535,
+                    "title": "Мороженое Milk Republic Беларускi пламбiр с ароматом ванили в оболочке из фруктового льда БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/plomb-s-vanil-bel-pl-70g-bzmzh",
+                    "regular_price": 76.99,
+                    "sale_price": "",
+                    "brand": "Milk Republic"
+                },
+                {
+                    "id": 18118536,
+                    "title": "Мороженое Milk Republic Беларускi пламбiр с ароматом ванили в оболочке из фруктового льда яблоко БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/plomb-s-yabl-bel-pl-70g-bzmzh",
+                    "regular_price": 76.99,
+                    "sale_price": "",
+                    "brand": "Milk Republic"
+                },
+                {
+                    "id": 16155128,
+                    "title": "Мороженое Monterra Печенье с карамелью БЗМЖ, 298 г",
+                    "url": "https://www.auchan.ru/product/mor-monterra-pechkar298gbzmzh",
+                    "regular_price": 407.99,
+                    "sale_price": "",
+                    "brand": "Monterra"
+                },
+                {
+                    "id": 18191948,
+                    "title": "Мороженое пломбир «НАСТОЯЩИЙ ПЛОМБИР» ванильный БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/bum-st-plombir-80g-np-bzmzh",
+                    "regular_price": 55.99,
+                    "sale_price": "",
+                    "brand": "НАСТОЯЩИЙ ПЛОМБИР"
+                },
+                {
+                    "id": 18191945,
+                    "title": "Мороженое пломбир «Монарх» чизкейк черника БЗМЖ, 330 г",
+                    "url": "https://www.auchan.ru/product/mor-monarh-chiz-cher-bzmzh-330g",
+                    "regular_price": 498.99,
+                    "sale_price": "",
+                    "brand": "Монарх"
+                },
+                {
+                    "id": 6572974,
+                    "title": "Мороженое пломбир «Большой папа» с черной смородиной рожок, 130 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-bolshoy-papa-s-chernoy-smorodinoy-rozhok-130-g",
+                    "regular_price": 121.49,
+                    "sale_price": "",
+                    "brand": "Большой папа"
+                },
+                {
+                    "id": 6572968,
+                    "title": "Мороженое пломбир «Большой папа» шоколадный с мягким шоколадом 12%, 450 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-bolshoy-papa-shokoladnyy-s-myagkim-shokoladom-12-450-g",
+                    "regular_price": 306.99,
+                    "sale_price": "",
+                    "brand": "Большой папа"
+                },
+                {
+                    "id": 225891,
+                    "title": "Мороженое пломбир «Золотой Стандарт» Классический, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-zolotoy-standart-klassicheskiy-100-g",
+                    "regular_price": 92.99,
+                    "sale_price": "",
+                    "brand": "Золотой Стандарт"
+                },
+                {
+                    "id": 14706489,
+                    "title": "Мороженое пломбир «Большой папа» со вкусом лимонного пирога в сахарном рожке, 130 г",
+                    "url": "https://www.auchan.ru/product/rozhok-bolsh-papa-lim-krem-130g",
+                    "regular_price": 120.99,
+                    "sale_price": "",
+                    "brand": "Большой папа"
+                },
+                {
+                    "id": 10583672,
+                    "title": "Мороженое «Вологодский пломбир» с крошкой из молочного шоколада, 100 г",
+                    "url": "https://www.auchan.ru/product/mor-volog-shok-kr-st-100-bzmzh",
+                    "regular_price": 94.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 10732966,
+                    "title": "Мороженое «Русский Холодъ» Настоящий пломбир Супер гигант ванильное в вафельном стаканчике БЗМЖ, 150 г",
+                    "url": "https://www.auchan.ru/product/morozh-plom-nast-van-st150g",
+                    "regular_price": 114.99,
+                    "sale_price": "",
+                    "brand": "Русский Холодъ"
+                },
+                {
+                    "id": 567867,
+                    "title": "Мороженое сэндвич OREO Ванильное с кусочками печенья БЗМЖ, 76 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-oreo-sendvich-76-g",
+                    "regular_price": 99.99,
+                    "sale_price": "",
+                    "brand": "OREO"
+                },
+                {
+                    "id": 552327,
+                    "title": "Мороженое «Чистая Линия» эскимо с клубникой в глазури БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-eskimo-s-klubnikoy-v-glazuri-80-g",
+                    "regular_price": 161.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 18265173,
+                    "title": "Мороженое пломбир «НАСТОЯЩИЙ ПЛОМБИР» ванильный на вафлях 80 г",
+                    "url": "https://www.auchan.ru/product/mor-plomb-na-vafl-van-bzmzh-80g",
+                    "regular_price": 60.99,
+                    "sale_price": "",
+                    "brand": "НАСТОЯЩИЙ ПЛОМБИР"
+                },
+                {
+                    "id": 552158,
+                    "title": "Мороженое «Жемчужина России» эскимо с миндалем в шоколадной глазури БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-zhemchuzhina-rossii-eskimo-s-mindalem-v-shokoladnoy-glazuri-80-g",
+                    "regular_price": 85.99,
+                    "sale_price": "",
+                    "brand": "Жемчужина России"
+                },
+                {
+                    "id": 14326170,
+                    "title": "Мороженое эскимо Milk Republic Беларускi пламбiр с ароматом ванили на палочке 15% БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/mor-na-paloch-van-15-80g",
+                    "regular_price": 87.99,
+                    "sale_price": "",
+                    "brand": "Milk Republic"
+                },
+                {
+                    "id": 103665,
+                    "title": "Мороженое «Коровка из Кореновки» пломбир ванильный с клубникой в вафельном рожке БЗМЖ, 120 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-korovka-iz-korenovki-plombir-vanilnyy-s-klubnikoy-v-vafelnom-rozhke-120-g",
+                    "regular_price": 104.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 14338475,
+                    "title": "Мороженое эскимо «Вологодский пломбир» пломбир пюре с ароматом клубники, 80 г",
+                    "url": "https://www.auchan.ru/product/eskimo-vp-klubnika-malina-80g",
+                    "regular_price": 104.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 547887,
+                    "title": "Мороженое пломбир «Чистая Линия» ванильный 12% БЗМЖ, 200 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-chistaya-liniya-vanilnyy-12-200-g",
+                    "regular_price": 194.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 6572964,
+                    "title": "Мороженое пломбир «Большой папа» банан и соленая карамель рожок, 130 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-bolshoy-papa-banan-i-solenaya-karamel-rozhok-130-g",
+                    "regular_price": 108.99,
+                    "sale_price": "",
+                    "brand": "Большой папа"
+                },
+                {
+                    "id": 18436815,
+                    "title": "Мороженое пломбир «Мишка на полюсе» с соком карельской черники и голубики, 75 г",
+                    "url": "https://www.auchan.ru/product/eskimo-mishka-pol-cher-gol-75g",
+                    "regular_price": 64.99,
+                    "sale_price": "",
+                    "brand": "Мишка на полюсе"
+                },
+                {
+                    "id": 547960,
+                    "title": "Мороженое «Чистая Линия» пломбир с фисташкой, 110 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-plombir-s-fistashkoy-110-g",
+                    "regular_price": 158.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 18112473,
+                    "title": "Мороженое «Свитлогорье» двухслойное пломбир Золотая ириска в вафельном рожке 15% БЗМЖ, 110 г",
+                    "url": "https://www.auchan.ru/product/mor-rozhok-van-ir-svitl-110bzmzh",
+                    "regular_price": 92.99,
+                    "sale_price": "",
+                    "brand": "Свитлогорье"
+                },
+                {
+                    "id": 550282,
+                    "title": "Мороженое «Филевское» пломбир с грецким орехом и мягкой соленой карамелью БЗМЖ, 550 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-filevskoe-plombir-s-greckim-orehom-i-myagkoy-solenoy-karamelyu-550-g",
+                    "regular_price": 533.99,
+                    "sale_price": "",
+                    "brand": "Филевское"
+                },
+                {
+                    "id": 18132639,
+                    "title": "Мороженое пломбир «Зелёна-Бурёна» Ведерко бумажное 15% БЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/plombir-na-sliv-15-500-g-zb",
+                    "regular_price": 492.99,
+                    "sale_price": "",
+                    "brand": "Зелёна-Бурёна"
+                },
+                {
+                    "id": 14149271,
+                    "title": "Мороженое пломбир «Чистая Линия» Ice Gravity Фантастическое крем-брюле с фундуком в белой глазури, 270 г",
+                    "url": "https://www.auchan.ru/product/mor-chl-plom-fant-kr-br-270bzmzh",
+                    "regular_price": 735.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 18265170,
+                    "title": "Мороженое пломбир «Лакомство Колибри» ванильный с малиной в сахарном рожке, 100 г",
+                    "url": "https://www.auchan.ru/product/mor-rozhok-van-mal-kol-zmzh100g",
+                    "regular_price": 51.99,
+                    "sale_price": "",
+                    "brand": "Лакомство Колибри"
+                },
+                {
+                    "id": 131184,
+                    "title": "Мороженое «Монарх» пломбир ванильный с прослойками шоколадной глазури рулет БЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-monarh-plombir-vanilnyy-s-prosloykami-shokoladnoy-glazuri-rulet-500-g",
+                    "regular_price": 338.99,
+                    "sale_price": "",
+                    "brand": "Монарх"
+                },
+                {
+                    "id": 18118510,
+                    "title": "Мороженое «48 Копеек» Эскимо пломбир в яблочной глазури БЗМЖ, 58 г",
+                    "url": "https://www.auchan.ru/product/48-kopeek-eskimo-yabloko-58g",
+                    "regular_price": 68.99,
+                    "sale_price": "",
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 18132637,
+                    "title": "Мороженое пломбир «Зелёна-Бурёна» Стаканчик с ароматом ванили с клюквенным припасом 15% БЗМЖ, 85 г",
+                    "url": "https://www.auchan.ru/product/stakan-sliv-klyukva-15-85g-zb",
+                    "regular_price": 90.99,
+                    "sale_price": "",
+                    "brand": "Зелёна-Бурёна"
+                },
+                {
+                    "id": 18132592,
+                    "title": "Мороженое пломбир «Как раньше» ванильный с шоколадной крошкой, 400 г",
+                    "url": "https://www.auchan.ru/product/paket-vanil-s-shokoladom-400g",
+                    "regular_price": 254.99,
+                    "sale_price": "",
+                    "brand": "Как раньше"
+                },
+                {
+                    "id": 1907763,
+                    "title": "Мороженое пломбир «Зелёна-Бурёна» стаканчик с ароматом ванили 15%, 70 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-zelena-burena-stakanchik-s-aromatom-vanili-15-70-g",
+                    "regular_price": 50.99,
+                    "sale_price": "",
+                    "brand": "Зелена-Бурена"
+                },
+                {
+                    "id": 268090,
+                    "title": "Мороженое «Лекарство для Карлсона» шоколадное в вафельном стакане ЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-lekarstvo-dlya-karlsona-shokoladnoe-v-vafelnom-stakane-70-g",
+                    "regular_price": 24.99,
+                    "sale_price": "",
+                    "brand": "Лекарство для Карлсона"
+                },
+                {
+                    "id": 551839,
+                    "title": "Мороженое пломбир «Айсберри» Вкусландия с Фисташковой пастой и кешью БЗМЖ, 450 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-aysberri-vkuslandiya-s-fistashkovoy-pastoy-i-keshyu-450-g",
+                    "regular_price": 423.99,
+                    "sale_price": "",
+                    "brand": "Вкусландия"
+                },
+                {
+                    "id": 11254014,
+                    "title": "Мороженое пломбир «Чистая Линия» рожок ванильный в шоколадной глазури, 70 г",
+                    "url": "https://www.auchan.ru/product/mor-rozh-van-shok-gl-70g-chlbzmzh",
+                    "regular_price": 118.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 15024028,
+                    "title": "Мороженое пломбир «Айскейк» Соленая карамель с шоколадным трюфелем БЗМЖ, 130 мл",
+                    "url": "https://www.auchan.ru/product/morozh-sol-kar-sshok-tryuf-130-75",
+                    "regular_price": 98.99,
+                    "sale_price": "",
+                    "brand": "Айскейк"
+                },
+                {
+                    "id": 14326169,
+                    "title": "Мороженое пломбир Milk Republic Беларускi пламбiр крем-брюле в вафельном стаканчике 15% БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/mor-vaf-st-kr-br-15-80g",
+                    "regular_price": 75.99,
+                    "sale_price": "",
+                    "brand": "Milk Republic"
+                },
+                {
+                    "id": 18132627,
+                    "title": "Мороженое пломбир «Филевское» крем-брюле с мягкой карамелью в сахарном рожке, 100 г",
+                    "url": "https://www.auchan.ru/product/rozhok-krem-bryule-100g-filev",
+                    "regular_price": 109.99,
+                    "sale_price": "",
+                    "brand": "Филевское"
+                },
+                {
+                    "id": 12217185,
+                    "title": "Мороженое пломбир «Талосто» Золотой слиток Крем-брюле с вареным сгущенным молоком БЗМЖ, 200 г",
+                    "url": "https://www.auchan.ru/product/morbrikkrbr_zolsl200gbzmzh",
+                    "regular_price": 105.99,
+                    "sale_price": "",
+                    "brand": "Талосто"
+                },
+                {
+                    "id": 14420023,
+                    "title": "Мороженое пломбир «Золотой Стандарт» Классический с шоколадной крошкой БЗМЖ, 400 г",
+                    "url": "https://www.auchan.ru/product/zs-morozh-plomb-s-kroshkoy-400g",
+                    "regular_price": 253.99,
+                    "sale_price": "",
+                    "brand": "Золотой Стандарт"
+                },
+                {
+                    "id": 133841,
+                    "title": "Мороженое пломбир «Гроспирон» Кедровый БЗМЖ, 410 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-grospiron-kedrovyy-410-g",
+                    "regular_price": 427.99,
+                    "sale_price": "",
+                    "brand": "Гроспирон"
+                },
+                {
+                    "id": 15024024,
+                    "title": "Мороженое пломбир «Айскейк» Соленая карамель БЗМЖ, 130 мл",
+                    "url": "https://www.auchan.ru/product/morozh-sol-karamel-130ml-75g",
+                    "regular_price": 88.99,
+                    "sale_price": "",
+                    "brand": "Айскейк"
+                },
+                {
+                    "id": 16755671,
+                    "title": "Мороженое пломбир «Лакомство Колибри» черника-мюсли БЗМЖ, 250 г",
+                    "url": "https://www.auchan.ru/product/mor-sliv-chernika-kolib-lot250g",
+                    "regular_price": 178.99,
+                    "sale_price": "",
+                    "brand": "Лакомство Колибри"
+                },
+                {
+                    "id": 14326167,
+                    "title": "Мороженое пломбир Milk Republic Беларускi пламбiр с ароматом ванили в вафельном стаканчике 15% БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/mor-vaf-stak-van-15-80g",
+                    "regular_price": 79.99,
+                    "sale_price": "",
+                    "brand": "Milk Republic"
+                },
+                {
+                    "id": 552315,
+                    "title": "Мороженое эскимо Alpen Gold БЗМЖ, 58 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-alpen-gold-eskimo-58-g",
+                    "regular_price": 103.99,
+                    "sale_price": "",
+                    "brand": "Alpen Gold"
+                },
+                {
+                    "id": 131812,
+                    "title": "Мороженое «Чистая Линия» пломбир шоколадный в вафельном стаканчике БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-plombir-shokoladnyy-v-vafelnom-stakanchike-80-g",
+                    "regular_price": 100.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 907260,
+                    "title": "Мороженое «Коровка из Кореновки» пломбир ванильный с черной смородиной 15% БЗМЖ, 120 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-korovka-iz-korenovki-plombir-vanilnyy-s-chernoy-smorodinoy-15-120-g",
+                    "regular_price": 104.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 549206,
+                    "title": "Мороженое «Коровка из Кореновки» пломбир ванильный 15% БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-korovka-iz-korenovki-plombir-vanilnyy-15-100-g",
+                    "regular_price": 68.49,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 18412949,
+                    "title": "Мороженое пломбир «НАСТОЯЩИЙ ПЛОМБИР» ванильный на вафлях, 80 г",
+                    "url": "https://www.auchan.ru/product/br-vaf-nast-plomb-20-80g",
+                    "regular_price": 72.99,
+                    "sale_price": "",
+                    "brand": "НАСТОЯЩИЙ ПЛОМБИР"
+                },
+                {
+                    "id": 14149272,
+                    "title": "Мороженое пломбир «Чистая Линия» Ice Gravity Пиньята БЗМЖ, 270 г",
+                    "url": "https://www.auchan.ru/product/mor-chl-plomb-pinyata-270g-bzmzh",
+                    "regular_price": 700.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 18191947,
+                    "title": "Мороженое пломбир «Кузя» манго ваниль в вафельном стаканчике ЗМЖ, 65 г",
+                    "url": "https://www.auchan.ru/product/vaf-st-mango-65g-kuzya-zmzh",
+                    "regular_price": 54.99,
+                    "sale_price": "",
+                    "brand": "Кузя"
+                },
+                {
+                    "id": 550147,
+                    "title": "Мороженое пломбир «Русский Холодъ» Серебряная пуля эскимо в шоколаде БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-serebryanaya-pulya-eskimo-v-shokolade-80-g",
+                    "regular_price": 96.99,
+                    "sale_price": "",
+                    "brand": "Русский Холодъ"
+                },
+                {
+                    "id": 15926970,
+                    "title": "Мороженое Monterra Ванильное БЗМЖ, 252 г",
+                    "url": "https://www.auchan.ru/product/mor-monterra-plvanil-252gbzmzh",
+                    "regular_price": 439.9,
+                    "sale_price": "",
+                    "brand": "Monterra"
+                },
+                {
+                    "id": 130150,
+                    "title": "Мороженое пломбир «Юбилейное» ванильное ЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-yubileynoe-vanilnoe-500-g",
+                    "regular_price": 151.99,
+                    "sale_price": "",
+                    "brand": "Юбилейное"
+                },
+                {
+                    "id": 8256736,
+                    "title": "Мороженое «Каждый день» шоколадное ЗМЖ, 1 кг",
+                    "url": "https://www.auchan.ru/product/kdmorozhenoe_shokolad_1000g",
+                    "regular_price": 189.98,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 546574,
+                    "title": "Мороженое пломбир «Филевское» ванильный в вафельном стаканчике БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-aysberri-filevskoe-vanilnyy-v-vafelnom-stakanchike-100-g",
+                    "regular_price": 48.99,
+                    "sale_price": "",
+                    "brand": "Филевское"
+                },
+                {
+                    "id": 101947,
+                    "title": "Мороженое «снежный ШАРиК» с ароматом фисташки ЗМЖ, 90 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-snezhnyy-sharik-s-aromatom-fistashki-90-g",
+                    "regular_price": 34.99,
+                    "sale_price": "",
+                    "brand": "Снежный Шарик"
+                },
+                {
+                    "id": 102973,
+                    "title": "Мороженое пломбир «ГОСТОВский» ванильный БЗМЖ, 400 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-gostovskiy-vanilnyy-400-g",
+                    "regular_price": 311.99,
+                    "sale_price": "",
+                    "brand": "ГОСТОВский"
+                },
+                {
+                    "id": 101312,
+                    "title": "Мороженое «Лакомство Колибри» ванильное в сахарном рожке ЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-kolibri-lakomstvo-v-saharnom-rozhke-100-g",
+                    "regular_price": 33.49,
+                    "sale_price": "",
+                    "brand": "КоЛибри"
+                },
+                {
+                    "id": 8256728,
+                    "title": "Мороженое «Каждый день» Ванильное ЗМЖ, 1 кг",
+                    "url": "https://www.auchan.ru/product/kdmorozh_vaniln_1000g_ppak",
+                    "regular_price": 189.98,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 103519,
+                    "title": "Мороженое пломбир «Филевское» ванильный БЗМЖ, 450 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-filevskoe-plombir-vanilnyy-paket-450g",
+                    "regular_price": 258.49,
+                    "sale_price": "",
+                    "brand": "Филевское"
+                },
+                {
+                    "id": 211396,
+                    "title": "Мороженое пломбир «Коровка из Кореновки» крем-брюле в вафельном стакане БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-korovka-iz-korenovki-plombir-v-vafelnom-stakane-krem-bryule-100g",
+                    "regular_price": 84.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 134279,
+                    "title": "Мороженое «Лекарство для Карлсона» шоколадное с шоколадным топингом в контейнере ЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-lekarstvo-dlya-karlsona-shokoladnoe-s-shokoladnym-topingom-v-konteynere-500-g",
+                    "regular_price": 230.99,
+                    "sale_price": "",
+                    "brand": "Лекарство для Карлсона"
+                },
+                {
+                    "id": 14326172,
+                    "title": "Мороженое пломбир Milk Republic Беларускi пламбiр шоколадный в брикете на вафлях 15% БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/mor-brik-vaf-shok-15-100g",
+                    "regular_price": 99.99,
+                    "sale_price": "",
+                    "brand": "Milk Republic"
+                },
+                {
+                    "id": 133552,
+                    "title": "Мороженое пломбир «Вологодский пломбир» в вафлях БЗМЖ, 90 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-vologodskiy-plombir-plombir-v-vaflyah-90-g",
+                    "regular_price": 71.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 549485,
+                    "title": "Мороженое «Вологодский пломбир» с какао БЗМЖ, 130 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-vologodskiy-plombir-s-kakao-130-g",
+                    "regular_price": 113.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 216550,
+                    "title": "Мороженое пломбир «Коровка из Кореновки» шоколадный в вафельном стакане БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-korovka-iz-korenovki-plombir-shokolad-v-vafelnom-stakane-100-g",
+                    "regular_price": 84.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 133422,
+                    "title": "Мороженое «НАСТОЯЩИЙ ПЛОМБИР» пломбир ванильный в плоском вафельном стаканчике БЗМЖ, 90 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-nastoyashchiy-plombir-plombir-vanilnyy-v-ploskom-vafelnom-stakanchike-90-g",
+                    "regular_price": 59.99,
+                    "sale_price": "",
+                    "brand": "НАСТОЯЩИЙ ПЛОМБИР"
+                },
+                {
+                    "id": 18132591,
+                    "title": "Мороженое пломбир «Как раньше» крем-брюле в шоколадной глазури, 80 г",
+                    "url": "https://www.auchan.ru/product/eskimo-krem-bryule-kak-ran-80g",
+                    "regular_price": 64.99,
+                    "sale_price": "",
+                    "brand": "Как раньше"
+                },
+                {
+                    "id": 18295347,
+                    "title": "Мороженое пломбир «Советский стандарт» ванильный в сахарном рожке, 100 г",
+                    "url": "https://www.auchan.ru/product/plomb-sovet-stand-rozhok-100g",
+                    "regular_price": 98.99,
+                    "sale_price": "",
+                    "brand": "Советский стандарт"
+                },
+                {
+                    "id": 8340748,
+                    "title": "Мороженое «Коровка из Кореновки» пломбир фисташковый в вафельном стаканчике, 70 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe_fist_v_st_80g_kizk",
+                    "regular_price": 115.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 552314,
+                    "title": "Мороженое «ГОСТОВский Пломбир» эскимо в шоколадной глазури БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-gostovskiy-plombir-eskimo-v-shokoladnoy-glazuri-70-g",
+                    "regular_price": 49.99,
+                    "sale_price": "",
+                    "brand": "ГОСТОВский"
+                },
+                {
+                    "id": 17959378,
+                    "title": "Мороженое пломбир «Золотой Стандарт» Московское со сливками, 80 г",
+                    "url": "https://www.auchan.ru/product/mor-esk-v-glaz-zs-msk-80g-bzmzh",
+                    "regular_price": 88.99,
+                    "sale_price": "",
+                    "brand": "Золотой Стандарт"
+                },
+                {
+                    "id": 15024030,
+                    "title": "Мороженое пломбир «Айскейк» Маршмеллоу с шоколодным печеньем БЗМЖ, 130 мл",
+                    "url": "https://www.auchan.ru/product/morozh-marshmellou-s-shok-pech-130",
+                    "regular_price": 106.99,
+                    "sale_price": "",
+                    "brand": "Айскейк"
+                },
+                {
+                    "id": 567925,
+                    "title": "Мороженое пломбир «Золотой Стандарт» Черника БЗМЖ, 475 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-zolotoy-standart-chernika-475-g",
+                    "regular_price": 427.99,
+                    "sale_price": "",
+                    "brand": "Золотой Стандарт"
+                },
+                {
+                    "id": 14149273,
+                    "title": "Мороженое пломбир «Чистая Линия» Ice Gravity десерт Анны Павловой ванильный с джемом из лесных ягод и безе меренгами БЗМЖ, 270 г",
+                    "url": "https://www.auchan.ru/product/mor-des-a-pavlovoy-270-chl-bzmzh",
+                    "regular_price": 786.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 10768659,
+                    "title": "Мороженое пломбир «Чистая Линия» Веселый Кактус ванильный с малиной эскимо 12%, 80 г",
+                    "url": "https://www.auchan.ru/product/mor-esk-vk-mal-gl-80gchl-bzmzh",
+                    "regular_price": 153.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 18132644,
+                    "title": "Мороженое OREO с кусочками печенье БЗМЖ, 263 г",
+                    "url": "https://www.auchan.ru/product/oreo-vederko-263g-bzmzh",
+                    "regular_price": 472.99,
+                    "sale_price": "",
+                    "brand": "OREO"
+                },
+                {
+                    "id": 133055,
+                    "title": "Мороженое пломбир «Как раньше» ванильный с шоколадной крошкой БЗМЖ, 220 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-kak-ranshe-vanilnyy-s-shokoladnoy-kroshkoy-220-g",
+                    "regular_price": 131.99,
+                    "sale_price": "",
+                    "brand": "Как раньше"
+                },
+                {
+                    "id": 10583670,
+                    "title": "Мороженое пломбир «Вологодский пломбир» ванильное с шоколадной крошкой 15%, 250 г",
+                    "url": "https://www.auchan.ru/product/mor-volog-shok-kroshk-250g-bzmzh",
+                    "regular_price": 211.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 550712,
+                    "title": "Мороженое «Филевское» Бисконтино с шоколадным топпингом БЗМЖ, 550 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-filevskoe-biskontino-s-shokoladnym-toppingom-550-g",
+                    "regular_price": 529.99,
+                    "sale_price": "",
+                    "brand": "Филевское"
+                },
+                {
+                    "id": 18132633,
+                    "title": "Мороженое пломбир «Зелёна-Бурёна» Стаканчик крем-брюле 15% БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/stakanchik-krem-bryul-15-70g-zb",
+                    "regular_price": 72.99,
+                    "sale_price": "",
+                    "brand": "Зелёна-Бурёна"
+                },
+                {
+                    "id": 18132635,
+                    "title": "Мороженое пломбир «Зелёна-Бурёна» Стаканчик с ароматом ванили Пломбир на сливках 15% БЗМЖ, 85 г",
+                    "url": "https://www.auchan.ru/product/stakan-plomb-na-sl-15-85g-zb",
+                    "regular_price": 82.99,
+                    "sale_price": "",
+                    "brand": "Зелёна-Бурёна"
+                },
+                {
+                    "id": 100967,
+                    "title": "Мороженое «Колибри» Лакомство ванильное с шоколадной крошкой в ведре ЗМЖ, 850 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-kolibri-lakomstvo-vanilnoe-s-shokoladnoy-kroshkoy-v-vedre-850-g",
+                    "regular_price": 351.99,
+                    "sale_price": "",
+                    "brand": "КоЛибри"
+                },
+                {
+                    "id": 18197178,
+                    "title": "Мороженое пломбир «НАСТОЯЩИЙ ПЛОМБИР» крем-брюле в вафельном стаканчике БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/vaf-st-kr-bryule-80g-np-bzmzh",
+                    "regular_price": 79.99,
+                    "sale_price": "",
+                    "brand": "НАСТОЯЩИЙ ПЛОМБИР"
+                },
+                {
+                    "id": 1907764,
+                    "title": "Мороженое пломбир «Зелёна-Бурёна» вареная сгущенка в вафельном стаканчике 15%, 70 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-zelena-burena-stakanchik-varenaya-sgushchenka-15-70-g",
+                    "regular_price": 66.99,
+                    "sale_price": "",
+                    "brand": "Зелёна-Бурёна"
+                },
+                {
+                    "id": 14326173,
+                    "title": "Мороженое пломбир Milk Republic Беларускi пламбiр ароматом ванили с изюмом семейное в брикете без вафель 15% БЗМЖ, 250 г",
+                    "url": "https://www.auchan.ru/product/mor-van-izyum-br-15-250g",
+                    "regular_price": 208.99,
+                    "sale_price": "",
+                    "brand": "Milk Republic"
+                },
+                {
+                    "id": 14414691,
+                    "title": "Мороженое пломбир «Чистая Линия» Волшебный фонарь ванильный с шоколадной крошкой, 80 г",
+                    "url": "https://www.auchan.ru/product/mor-plomb-chl-fonar-80g-bzmzh",
+                    "regular_price": 149.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 18487066,
+                    "title": "Мороженое пломбир «Коровка из Кореновки» двухслойный шоколадный и ванильное 15%, 400 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plomb-2h-cv-400g",
+                    "regular_price": 274.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 547869,
+                    "title": "Мороженое «Вологодский пломбир» шоколадное БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-vologodskiy-plombir-shokoladnoe-100-g",
+                    "regular_price": 91.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 137961,
+                    "title": "Мороженое «Филевское» пломбир ванильный в шоколадной глазури в сахарном рожке БЗМЖ, 60 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-filevskoe-plombir-vanilnyy-v-shokoladnoy-glazuri-v-saharnom-rozhke-60-g",
+                    "regular_price": 43.99,
+                    "sale_price": "",
+                    "brand": "Филевское"
+                },
+                {
+                    "id": 8256792,
+                    "title": "Мороженое «Каждый день» крем-брюле ЗМЖ, 1 кг",
+                    "url": "https://www.auchan.ru/product/kdmorozh_krem_bryule_1000g_pp",
+                    "regular_price": 199.99,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 547599,
+                    "title": "Мороженое «Чистая Линия» пломбир Радуга, 90 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-plombir-raduga-90-g",
+                    "regular_price": 107.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 13089353,
+                    "title": "Мороженое «Каждый день» брикет ЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/kd-morozhenoe-briket-80g-szmzh",
+                    "regular_price": 25.98,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                }
+            ]
+        },
+        {
+            "name": "saint-petersburg",
+            "count_items": 168,
+            "results": [
+                {
+                    "id": 18194598,
+                    "title": "Мороженое пломбир «Кузя» манго ваниль в вафельном стаканчике ЗМЖ, 65 г",
+                    "url": "https://www.auchan.ru/product/vaf-st-mango-65g-kuzya-zmzh",
+                    "regular_price": 54.99,
+                    "sale_price": 25.9,
+                    "brand": "Кузя"
+                },
+                {
+                    "id": 18266395,
+                    "title": "Мороженое пломбир «Лакомство Колибри» Ежик глазированный с арахисом в вафельном стаканчике, 75 г",
+                    "url": "https://www.auchan.ru/product/mor-vaf-st-van-gl-oreh-zmzh-75g",
+                    "regular_price": 40.99,
+                    "sale_price": 19.9,
+                    "brand": "Лакомство Колибри"
+                },
+                {
+                    "id": 611055,
+                    "title": "Мороженое пломбир «Русский Холодъ» Серебряная пуля эскимо в шоколаде БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-serebryanaya-pulya-eskimo-v-shokolade-80-g",
+                    "regular_price": 97.99,
+                    "sale_price": 49.9,
+                    "brand": "Русский Холодъ"
+                },
+                {
+                    "id": 626807,
+                    "title": "Мороженое «Чистая Линия» пломбир крем-брюле БЗМЖ, 200 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-plombir-krem-bryule-200-g",
+                    "regular_price": 224.99,
+                    "sale_price": 119.9,
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 15928520,
+                    "title": "Мороженое Monterra Грецкий орех с кленовым сиропом БЗМЖ, 298 г",
+                    "url": "https://www.auchan.ru/product/mor-monterra-grecoreh298gbzmzh",
+                    "regular_price": 521.99,
+                    "sale_price": 299.9,
+                    "brand": "Monterra"
+                },
+                {
+                    "id": 18266393,
+                    "title": "Мороженое пломбир «Лакомство Колибри» ванильный с малиной в сахарном рожке, 100 г",
+                    "url": "https://www.auchan.ru/product/mor-rozhok-van-mal-kol-zmzh100g",
+                    "regular_price": 51.99,
+                    "sale_price": 29.9,
+                    "brand": "Лакомство Колибри"
+                },
+                {
+                    "id": 611322,
+                    "title": "Мороженое «Чистая Линия» пломбир шоколадный в вафельном стаканчике БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-plombir-shokoladnyy-v-vafelnom-stakanchike-80-g",
+                    "regular_price": 100.99,
+                    "sale_price": 59.9,
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 626806,
+                    "title": "Мороженое пломбир «Чистая Линия» ванильный 12% БЗМЖ, 200 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-chistaya-liniya-vanilnyy-12-200-g",
+                    "regular_price": 194.99,
+                    "sale_price": 119.9,
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 636801,
+                    "title": "Мороженое «48 Копеек» пломбир малина, 90 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-48-kopeek-plombir-malina-90-g",
+                    "regular_price": 95.99,
+                    "sale_price": 59.9,
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 18194587,
+                    "title": "Мороженое пломбир «Русский Холодъ» Настоящий пломбир Сэндвич ванильный БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/mor-sendvich-n-p-bzmzh-100g",
+                    "regular_price": 118.99,
+                    "sale_price": 74.9,
+                    "brand": "Русский Холодъ"
+                },
+                {
+                    "id": 613443,
+                    "title": "Мороженое «Чистая Линия» Московская лакомка шоколадное БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-moskovskaya-lakomka-shokoladnoe-80-g",
+                    "regular_price": 151.99,
+                    "sale_price": 98.9,
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 611703,
+                    "title": "Мороженое пломбир «Золотой Стандарт» шоколадный БЗМЖ, 86 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-zolotoy-standart-shokoladnyy-86-g",
+                    "regular_price": 74.99,
+                    "sale_price": 49.9,
+                    "brand": "Золотой Стандарт"
+                },
+                {
+                    "id": 618619,
+                    "title": "Мороженое пломбир «Золотой Стандарт» со сливками БЗМЖ, 86 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-zolotoy-standart-so-slivkami-86-g",
+                    "regular_price": 74.49,
+                    "sale_price": 49.9,
+                    "brand": "Золотой Стандарт"
+                },
+                {
+                    "id": 606409,
+                    "title": "Мороженое «Чистая Линия» пломбир ванильный в вафельном стаканчике БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-plombir-vanilnyy-v-vafelnom-stakanchike-80-g",
+                    "regular_price": 86.99,
+                    "sale_price": 59.9,
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 15928517,
+                    "title": "Мороженое Monterra Тирамису БЗМЖ, 277 г",
+                    "url": "https://www.auchan.ru/product/mor-monterra-tiramisu-277gbzmzh",
+                    "regular_price": 436.99,
+                    "sale_price": 299.9,
+                    "brand": "Monterra"
+                },
+                {
+                    "id": 15928518,
+                    "title": "Мороженое Monterra Ванильное БЗМЖ, 252 г",
+                    "url": "https://www.auchan.ru/product/mor-monterra-plvanil-252gbzmzh",
+                    "regular_price": 436.99,
+                    "sale_price": 299.9,
+                    "brand": "Monterra"
+                },
+                {
+                    "id": 609999,
+                    "title": "Мороженое пломбир «48 Копеек» БЗМЖ, 210 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-48-kopeek-plombir-400-g",
+                    "regular_price": 158.49,
+                    "sale_price": 109.9,
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 616985,
+                    "title": "Мороженое пломбир «48 Копеек» рожок с вареньем из черной смородины БЗМЖ, 111 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-48-kopeek-rozhok-chernaya-smorodina-111-g",
+                    "regular_price": 120.99,
+                    "sale_price": 84.9,
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 636804,
+                    "title": "Мороженое «48 Копеек» Шоколадное БЗМЖ, 232 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-48-kopeek-plombir-shokoladnyy-232-g",
+                    "regular_price": 156.99,
+                    "sale_price": 109.9,
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 18266394,
+                    "title": "Мороженое пломбир «Лакомство Колибри» ванильный с черной смородиной в сахарном рожке, 100 г",
+                    "url": "https://www.auchan.ru/product/mor-rozhok-van-ch-sm-kol-zmzh100g",
+                    "regular_price": 51.99,
+                    "sale_price": 36.9,
+                    "brand": "Лакомство Колибри"
+                },
+                {
+                    "id": 14712954,
+                    "title": "Мороженое «Свитлогорье» двухслойное Золотая ириска в карамельной глазури БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/mor-syrok-van-zol-ir-80gbzmzh",
+                    "regular_price": 82.49,
+                    "sale_price": 59.9,
+                    "brand": "Свитлогорье"
+                },
+                {
+                    "id": 15290272,
+                    "title": "Мороженое пломбир «Коровка из Кореновки» крем-брюле в карамельной глазури БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/mor-eskimo-krem-br-70-grbzmzh",
+                    "regular_price": 94.99,
+                    "sale_price": 69.9,
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 14451207,
+                    "title": "Мороженое пломбир «КоЛибри» ванильное с шоколадной глазурью в сахарном рожке 12% БЗМЖ, 90 г",
+                    "url": "https://www.auchan.ru/product/mor-rozh-kol-sl-shok-90g-bzmzhzh",
+                    "regular_price": 49.5,
+                    "sale_price": 36.9,
+                    "brand": "КоЛибри"
+                },
+                {
+                    "id": 612331,
+                    "title": "Мороженое эскимо Milka Ванильное в молочном шоколаде БЗМЖ, 62 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-eskimo-milka-62-g",
+                    "regular_price": 116.99,
+                    "sale_price": 87.9,
+                    "brand": "Milka"
+                },
+                {
+                    "id": 607561,
+                    "title": "Мороженое «Чистая линия» Лакомка БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-lakomka-80-g",
+                    "regular_price": 128.49,
+                    "sale_price": 98.9,
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 18104873,
+                    "title": "Мороженое «48 Копеек» Клубничный Десерт БЗМЖ, 243 г",
+                    "url": "https://www.auchan.ru/product/48-brik-klubnichnyy-desert-243g",
+                    "regular_price": 136.99,
+                    "sale_price": 109.9,
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 10608406,
+                    "title": "Мороженое пломбир «Мороженое Карелии» шоколадное 12% БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/mor-plombir-shok-bum-st-70g",
+                    "regular_price": 60.99,
+                    "sale_price": "",
+                    "brand": "Мороженое Карелии"
+                },
+                {
+                    "id": 638432,
+                    "title": "Мороженое пломбир «Чистая линия» Семейный ванильный БЗМЖ, 450 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-plombir-semeynyy-vanilnyy-450-g",
+                    "regular_price": 476.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 611185,
+                    "title": "Мороженое АШАН Красная птица пломбир клубничный БЗМЖ, 110 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-auchan-krasnaya-ptica-plombir-klubnichnyy-110-g",
+                    "regular_price": 69.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 610653,
+                    "title": "Мороженое пломбир АШАН Красная птица ванильный БЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-krasnaya-ptica-vanna-plombir-vanilnyy-500g",
+                    "regular_price": 260.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 12999484,
+                    "title": "Мороженое пломбир АШАН Красная птица крем-брюле БЗМЖ, 200 г",
+                    "url": "https://www.auchan.ru/product/mor-bzmzh-brik-krem-200g",
+                    "regular_price": 98.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 12999480,
+                    "title": "Мороженое пломбир АШАН Красная птица с шоколадной крошкой БЗМЖ, 200 г",
+                    "url": "https://www.auchan.ru/product/mor-bzmzh-pl-s-shok-krosh-200g",
+                    "regular_price": 98.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 610654,
+                    "title": "Мороженое пломбир АШАН Красная птица шоколадный БЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-krasnaya-ptica-vanna-plombir-shokoladnyy-500g",
+                    "regular_price": 260.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 12999483,
+                    "title": "Мороженое пломбир АШАН Красная птица шоколадный БЗМЖ, 200 г",
+                    "url": "https://www.auchan.ru/product/mor-bzmzh-plomb-shok-200g",
+                    "regular_price": 98.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 12999482,
+                    "title": "Мороженое пломбир АШАН Красная птица ванильный БЗМЖ, 200 г",
+                    "url": "https://www.auchan.ru/product/mor-bzmzh-brik-vanil-200g",
+                    "regular_price": 98.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 12999481,
+                    "title": "Мороженое пломбир АШАН Красная птица ванильный на вафлях БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/mor-bzmzh-van-plomb-v-vaf-80g",
+                    "regular_price": 41.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 620792,
+                    "title": "Мороженое пломбир АШАН Красная птица клубничный БЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-krasnaya-ptica-vanna-plombir-klubnichnyy-500g",
+                    "regular_price": 260.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 623994,
+                    "title": "Мороженое АШАН Красная птица пломбир ванильный в сахарном рожке БЗМЖ, 110 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-auchan-krasnaya-ptica-plombir-vanilnyy-v-saharnom-rozhke-110-g",
+                    "regular_price": 69.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 611184,
+                    "title": "Мороженое АШАН Красная птица пломбир шоколадный в сахарном рожке БЗМЖ, 110 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-auchan-krasnaya-ptica-plombir-shokoladnyy-v-saharnom-rozhke-110-g",
+                    "regular_price": 69.99,
+                    "sale_price": "",
+                    "brand": "АШАН Красная птица"
+                },
+                {
+                    "id": 17629207,
+                    "title": "Мороженое Burenka Club пломбир эскимо в шок глазури ванильный БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/eskimoburenkaclub-vanil70",
+                    "regular_price": 71.99,
+                    "sale_price": "",
+                    "brand": "Burenka Club"
+                },
+                {
+                    "id": 621958,
+                    "title": "Мороженое пломбир «Золотой Стандарт» классический БЗМЖ, 475 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-zolotoy-standart-klassicheskiy-475-g",
+                    "regular_price": 427.99,
+                    "sale_price": "",
+                    "brand": "Золотой Стандарт"
+                },
+                {
+                    "id": 606829,
+                    "title": "Мороженое «Коровка из Кореновки» пломбир ванильный с черной смородиной 15% БЗМЖ, 400 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-korovka-iz-korenovki-plombir-vanilnyy-s-chernoy-smorodinoy-15-400-g",
+                    "regular_price": 300.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 671579,
+                    "title": "Мороженое пломбир «Петрохолод» Белые ночи в белой глазури БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-belye-nochi-v-beloy-glazuri-70-g",
+                    "regular_price": 54.99,
+                    "sale_price": "",
+                    "brand": "Петрохолод"
+                },
+                {
+                    "id": 8383807,
+                    "title": "Мороженое пломбир «Хладокомбинат №1» крем-брюле на сливках БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/vaf_stak_plombir_kr_br_70gr",
+                    "regular_price": 59.99,
+                    "sale_price": "",
+                    "brand": "Хладокомбинат №1"
+                },
+                {
+                    "id": 854254,
+                    "title": "Мороженое «Юбилейное» шоколадное ЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-yubileynoe-shokoladnoe-800-g",
+                    "regular_price": 151.99,
+                    "sale_price": "",
+                    "brand": "Юбилейное"
+                },
+                {
+                    "id": 8383928,
+                    "title": "Мороженое пломбир «Холод Славмо» ванильное с брусникой БЗМЖ, 400 г",
+                    "url": "https://www.auchan.ru/product/plombir_s_brusnikoy_lotok_400g",
+                    "regular_price": 308.99,
+                    "sale_price": "",
+                    "brand": "Славмо Холод"
+                },
+                {
+                    "id": 18169851,
+                    "title": "Мороженое пломбир «Как раньше» ванильный с крошкой из молочного шоколада в вафельном стаканчике, 90 г",
+                    "url": "https://www.auchan.ru/product/stakanchik-kr-vanil-shokolad90g",
+                    "regular_price": 61.99,
+                    "sale_price": "",
+                    "brand": "Как раньше"
+                },
+                {
+                    "id": 620344,
+                    "title": "Мороженое «Гроспирон» пломбир шоколадный бумажное ведро БЗМЖ, 410 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-grospiron-plombir-shokoladnyy-bumazhnoe-vedro-410-g",
+                    "regular_price": 337.99,
+                    "sale_price": "",
+                    "brand": "Гроспирон"
+                },
+                {
+                    "id": 18194586,
+                    "title": "Мороженое пломбир «Русский Холодъ» Настоящий пломбир ванильный БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/eskimo-nast-plomb-van-bzmzh-70g",
+                    "regular_price": 72.99,
+                    "sale_price": "",
+                    "brand": "Русский Холодъ"
+                },
+                {
+                    "id": 624825,
+                    "title": "Мороженое пломбир «Ленинградское» батончик сливочный в шоколадной глазури БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-leningradskoe-batonchik-slivochnyy-v-shokoladnoy-glazuri-80-g",
+                    "regular_price": 52.99,
+                    "sale_price": "",
+                    "brand": "Ленинградское"
+                },
+                {
+                    "id": 618852,
+                    "title": "Мороженое пломбир «ГОСТОВский» кедровые орехи БЗМЖ, 350 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-gostovskiy-kedrovye-orehi-350-g",
+                    "regular_price": 430.99,
+                    "sale_price": "",
+                    "brand": "ГОСТОВский"
+                },
+                {
+                    "id": 14327208,
+                    "title": "Мороженое пломбир Milk Republic Беларускi пламбiр с ароматом фисташек 15% БЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/mor-fistashk-mesh-15-500g",
+                    "regular_price": 416.99,
+                    "sale_price": "",
+                    "brand": "Milk Republic"
+                },
+                {
+                    "id": 606392,
+                    "title": "Мороженое пломбир «Петрохолод» Золотая трубочка ванильный БЗМЖ, 60 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-zolotaya-trubochka-plombir-vanilnyy-60-g",
+                    "regular_price": 37.99,
+                    "sale_price": "",
+                    "brand": "Петрохолод"
+                },
+                {
+                    "id": 8383812,
+                    "title": "Мороженое пломбир «Хладокомбинат №1» сахарная трубочка с черной смородиной в шоколадной глазури, 70 г",
+                    "url": "https://www.auchan.ru/product/sah_trub__s_chern_smor70gr",
+                    "regular_price": 72.99,
+                    "sale_price": "",
+                    "brand": "Хладокомбинат №1"
+                },
+                {
+                    "id": 10599130,
+                    "title": "Мороженое пломбир «Мороженое Карелии» ванильное с черной смородиной, 70 г",
+                    "url": "https://www.auchan.ru/product/morozh-vaf-st-chernaya-smorod70g",
+                    "regular_price": 57.99,
+                    "sale_price": "",
+                    "brand": "Мороженое Карелии"
+                },
+                {
+                    "id": 14854713,
+                    "title": "Мороженое пломбир «Русский Холодъ» Настоящий пломбир ванильный БЗМЖ, 1 кг",
+                    "url": "https://www.auchan.ru/product/morozh-nast-plomb-vanil-1000g",
+                    "regular_price": 515.99,
+                    "sale_price": "",
+                    "brand": "Русский Холодъ"
+                },
+                {
+                    "id": 610023,
+                    "title": "Мороженое «Чистая Линия» пломбир ваниль БЗМЖ, 110 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-plombir-vanil-110-g",
+                    "regular_price": 144.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 18121186,
+                    "title": "Мороженое пломбир «48 Копеек» БЗМЖ, 419 г",
+                    "url": "https://www.auchan.ru/product/48-kopeek-vanna-plombir-419g",
+                    "regular_price": 384.99,
+                    "sale_price": "",
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 612267,
+                    "title": "Мороженое «Вологодский пломбир» шоколадный, 250 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-vologodskiy-plombir-shokoladnyy-250-g",
+                    "regular_price": 197.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 1862927,
+                    "title": "Мороженое «Бон Пари» Кошмарики десет ягодный, 59 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-nestle-bon-pari-koshmariki-deset-yagodnyy-59-g",
+                    "regular_price": 84.99,
+                    "sale_price": "",
+                    "brand": "Бон Пари"
+                },
+                {
+                    "id": 14327220,
+                    "title": "Мороженое эскимо «Вологодский пломбир» пломбир с пюре манго, 60 г",
+                    "url": "https://www.auchan.ru/product/eskimo-volog-plom-mango-60g",
+                    "regular_price": 104.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 16770192,
+                    "title": "Мороженое пломбир «Лакомство Колибри» вишня-ром БЗМЖ, 250 г",
+                    "url": "https://www.auchan.ru/product/mor-sliv-vishnya-kolib-lotok250g",
+                    "regular_price": 178.99,
+                    "sale_price": "",
+                    "brand": "Лакомство Колибри"
+                },
+                {
+                    "id": 1248904,
+                    "title": "Мороженое «48 Копеек» Шоколадная Прага БЗМЖ, 432 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-48-kopeek-shokoladnaya-praga-432-g",
+                    "regular_price": 548.49,
+                    "sale_price": "",
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 614503,
+                    "title": "Мороженое «Настоящий Пломбир» пломбир ванильный в сахарном рожке БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-nastoyashchiy-plombir-plombir-vanilnyy-v-saharnom-rozhke-100-g",
+                    "regular_price": 72.99,
+                    "sale_price": "",
+                    "brand": "НАСТОЯЩИЙ ПЛОМБИР"
+                },
+                {
+                    "id": 611785,
+                    "title": "Мороженое «Лекарство для Карлсона» ванильное в вафельном стаканчике ЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-lekarstvo-dlya-karlsona-vanilnoe-v-vafelnom-stakanchike-70-g",
+                    "regular_price": 24.99,
+                    "sale_price": "",
+                    "brand": "Лекарство для Карлсона"
+                },
+                {
+                    "id": 8279993,
+                    "title": "Мороженое «Каждый день» вафельный стаканчик шоколадный ЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/kdmorozhenoe_stakan_shokol_70g",
+                    "regular_price": 18.98,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 610000,
+                    "title": "Мороженое пломбир «48 Копеек» стаканчик БЗМЖ, 88 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-48-kopeek-plombir-88-g",
+                    "regular_price": 65.99,
+                    "sale_price": "",
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 11597073,
+                    "title": "Мороженое «Русский Холодъ» Настоящий пломбир Супер гигант шоколадное в вафельном стаканчике БЗМЖ, 150 г",
+                    "url": "https://www.auchan.ru/product/morozh-nast-plomb-shok-st150g",
+                    "regular_price": 113.99,
+                    "sale_price": "",
+                    "brand": "Русский Холодъ"
+                },
+                {
+                    "id": 8274577,
+                    "title": "Мороженое «Каждый день» вафельный стаканчик ванильный ЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/kdmorozhenoe_stakan_vanil_70g",
+                    "regular_price": 13.98,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 8274547,
+                    "title": "Мороженое «Каждый день» Щербет клюквенный, 80 г",
+                    "url": "https://www.auchan.ru/product/kdmorozhenoe_scherbet_klyukva_80g",
+                    "regular_price": 25.99,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 18114684,
+                    "title": "Мороженое «Свитлогорье» двухслойное пломбир в вафельном рожке 15% БЗМЖ, 110 г",
+                    "url": "https://www.auchan.ru/product/mor-rozhok-vanshok-svitl-110bzmzh",
+                    "regular_price": 92.99,
+                    "sale_price": "",
+                    "brand": "Свитлогорье"
+                },
+                {
+                    "id": 18114686,
+                    "title": "Мороженое «Свитлогорье» двухслойное Трубочка Золотая Ириска 15% БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/mor-plom-trub-zol-ir-sv-80bzmzh",
+                    "regular_price": 83.99,
+                    "sale_price": "",
+                    "brand": "Свитлогорье"
+                },
+                {
+                    "id": 16770194,
+                    "title": "Мороженое ванильное «Время Летать» с черничным наполнителем ЗМЖ, 450 г",
+                    "url": "https://www.auchan.ru/product/mor-van-chern-vr-letat-lot450g",
+                    "regular_price": 304.99,
+                    "sale_price": "",
+                    "brand": "Время Летать"
+                },
+                {
+                    "id": 14451206,
+                    "title": "Мороженое пломбир «КоЛибри» Крем-брюле в сахарном рожке 12% БЗМЖ, 90 г",
+                    "url": "https://www.auchan.ru/product/mor-rozh-kol-sl-kr-br-90g-bzmzh",
+                    "regular_price": 49.5,
+                    "sale_price": "",
+                    "brand": "КоЛибри"
+                },
+                {
+                    "id": 902768,
+                    "title": "Мороженое «Коровка из Кореновки» пломбир ванильный 15% БЗМЖ, 400 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-korovka-iz-korenovki-plombir-vanilnyy-15-400-g",
+                    "regular_price": 233.49,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 613754,
+                    "title": "Мороженое «Чистая Линия» Ленинградское пломбир ванильный БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-leningradskoe-plombir-vanilnyy-80-g",
+                    "regular_price": 163.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 900117,
+                    "title": "Мороженое «Коровка из Кореновки» пломбир ванильный с шоколадной крошкой 15% БЗМЖ, 400 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-korovka-iz-korenovki-plombir-vanilnyy-s-shokoladnoy-kroshkoy-15-400-g",
+                    "regular_price": 307.49,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 14348503,
+                    "title": "Мороженое пломбир «КоЛибри» с мягкой карамелью ЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/rozhok-van-kar-kolibri100g-zmzh",
+                    "regular_price": 49.5,
+                    "sale_price": "",
+                    "brand": "КоЛибри"
+                },
+                {
+                    "id": 14327196,
+                    "title": "Мороженое пломбир «Ленинградское» с клубникой в сахарном рожке БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/rozhok-leningradskoe-s-klub100g",
+                    "regular_price": 70.99,
+                    "sale_price": "",
+                    "brand": "Ленинградское"
+                },
+                {
+                    "id": 18169865,
+                    "title": "Мороженое пломбир «Жемчужина России» с ароматом вишни и фисташки в вафельном стаканчике, 90 г",
+                    "url": "https://www.auchan.ru/product/stakan-vish-fist-90g-zhemch-ross",
+                    "regular_price": 73.99,
+                    "sale_price": "",
+                    "brand": "Жемчужина России"
+                },
+                {
+                    "id": 17629205,
+                    "title": "Мороженое Burenka Club пломбир эскимо в белой глазури с черной смородиной БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/eskimoburenkaclubch-sm-bel-gl70",
+                    "regular_price": 79.99,
+                    "sale_price": "",
+                    "brand": "Burenka Club"
+                },
+                {
+                    "id": 12928912,
+                    "title": "Мороженое пломбир «Золотой стандарт» классический со вкусом сливок, 400 г",
+                    "url": "https://www.auchan.ru/product/morplombklaszs_400gr_bzmzh",
+                    "regular_price": 253.99,
+                    "sale_price": "",
+                    "brand": "Золотой Стандарт"
+                },
+                {
+                    "id": 18266398,
+                    "title": "Мороженое пломбир «Лакомство Колибри» Пломбир на натуральных сливках в вафельном стаканчике, 70 г",
+                    "url": "https://www.auchan.ru/product/mor-vaf-st-plom-bez-e-bzmzh-70g",
+                    "regular_price": 75.99,
+                    "sale_price": "",
+                    "brand": "Лакомство Колибри"
+                },
+                {
+                    "id": 8383926,
+                    "title": "Мороженое «Славмо» вафельный стаканчик шоколадное БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/plombir_shok_v_vaf_st_80g",
+                    "regular_price": 59.99,
+                    "sale_price": "",
+                    "brand": "Славмо Холод"
+                },
+                {
+                    "id": 8383932,
+                    "title": "Мороженое пломбир «Холод Славмо» ванильное с черникой брикет БЗМЖ, 200 г",
+                    "url": "https://www.auchan.ru/product/plombir_s_chernikoy_briket_200g",
+                    "regular_price": 153.99,
+                    "sale_price": "",
+                    "brand": "Славмо Холод"
+                },
+                {
+                    "id": 606389,
+                    "title": "Мороженое пломбир «Петрохолод» Золотая трубочка крем-брюле БЗМЖ, 60 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-zolotaya-trubochka-plombir-krem-bryule-60-g",
+                    "regular_price": 35.99,
+                    "sale_price": "",
+                    "brand": "Петрохолод"
+                },
+                {
+                    "id": 8383809,
+                    "title": "Мороженое пломбир «Хладокомбинат №1» ванильный БЗМЖ, 180 г",
+                    "url": "https://www.auchan.ru/product/briket_plombir_vanil180gr",
+                    "regular_price": 162.99,
+                    "sale_price": "",
+                    "brand": "Хладокомбинат №1"
+                },
+                {
+                    "id": 17629200,
+                    "title": "Мороженое Burenka Club пломбир в вафельном стаканчике шоколадный БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/plomb-burenkaclub-st-shokol80",
+                    "regular_price": 69.99,
+                    "sale_price": "",
+                    "brand": "Burenka Club"
+                },
+                {
+                    "id": 8383927,
+                    "title": "Мороженое пломбир «Холод Славмо» ванильное БЗМЖ, 400 г",
+                    "url": "https://www.auchan.ru/product/plombir_vanilnyy_lotok_400g",
+                    "regular_price": 286.99,
+                    "sale_price": "",
+                    "brand": "Славмо Холод"
+                },
+                {
+                    "id": 614617,
+                    "title": "Мороженое «Лекарство для Карлсона» ванильное с шоколадным топингом в контейнере ЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-lekarstvo-dlya-karlsona-vanilnoe-s-shokoladnym-topingom-v-konteynere-500-g",
+                    "regular_price": 230.99,
+                    "sale_price": "",
+                    "brand": "Лекарство для Карлсона"
+                },
+                {
+                    "id": 613502,
+                    "title": "Мороженое «Филевское» эскимо в шоколадной глазури БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-filevskoe-eskimo-v-shokoladnoy-glazuri-80-g",
+                    "regular_price": 65.99,
+                    "sale_price": "",
+                    "brand": "Филевское"
+                },
+                {
+                    "id": 5964179,
+                    "title": "Мороженое «Русский Холодъ» Настоящий пломбир шоколадный БЗМЖ, 230 г",
+                    "url": "https://www.auchan.ru/product/morshok_brik_np_230gr_bzmzh",
+                    "regular_price": 171.99,
+                    "sale_price": "",
+                    "brand": "Русский Холодъ"
+                },
+                {
+                    "id": 611456,
+                    "title": "Мороженое «Вологодский Пломбир» на вареной сгущенке БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-vologodskiy-plombir-na-varenoy-sgushchenke-100-g",
+                    "regular_price": 79.49,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 607780,
+                    "title": "Мороженое «Вологодский пломбир» 15% БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-vologodskiy-plombir-15-100-g",
+                    "regular_price": 87.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 607773,
+                    "title": "Мороженое «Чистая Линия» пломбир крем-брюле, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-plombir-krem-bryule-80-g",
+                    "regular_price": 107.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 8274639,
+                    "title": "Мороженое «Каждый день» рожок ванильный ЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/kdmorozh_vanil_rozhok_100g",
+                    "regular_price": 28.98,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 11707216,
+                    "title": "Мороженое «Коровка из Кореновки» пломбир двухслойный ваниль и манго-маракуйя БЗМЖ, 400 г",
+                    "url": "https://www.auchan.ru/product/mor_plom_mang_marak_400gkiz",
+                    "regular_price": 300.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 8274588,
+                    "title": "Мороженое «Каждый день» рожок крем-брюле ЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/kdmorozh_kr_br_rozhok_100g",
+                    "regular_price": 30.99,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 18194588,
+                    "title": "Мороженое пломбир «Монарх» йогурт красный виноград БЗМЖ, 330 г",
+                    "url": "https://www.auchan.ru/product/mor-monarh-yog-vin-bzmzh-330g",
+                    "regular_price": 498.99,
+                    "sale_price": "",
+                    "brand": "Монарх"
+                },
+                {
+                    "id": 18293790,
+                    "title": "Мороженое Maxiduo вафельный mix БЗМЖ, 63 г",
+                    "url": "https://www.auchan.ru/product/maksiduo-vaf-mix-63gbzmzh",
+                    "regular_price": 71.99,
+                    "sale_price": "",
+                    "brand": "Maxiduo"
+                },
+                {
+                    "id": 614617,
+                    "title": "Мороженое «Лекарство для Карлсона» ванильное с шоколадным топингом в контейнере ЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-lekarstvo-dlya-karlsona-vanilnoe-s-shokoladnym-topingom-v-konteynere-500-g",
+                    "regular_price": 230.99,
+                    "sale_price": "",
+                    "brand": "Лекарство для Карлсона"
+                },
+                {
+                    "id": 18266398,
+                    "title": "Мороженое пломбир «Лакомство Колибри» Пломбир на натуральных сливках в вафельном стаканчике, 70 г",
+                    "url": "https://www.auchan.ru/product/mor-vaf-st-plom-bez-e-bzmzh-70g",
+                    "regular_price": 75.99,
+                    "sale_price": "",
+                    "brand": "Лакомство Колибри"
+                },
+                {
+                    "id": 12928912,
+                    "title": "Мороженое пломбир «Золотой стандарт» классический со вкусом сливок, 400 г",
+                    "url": "https://www.auchan.ru/product/morplombklaszs_400gr_bzmzh",
+                    "regular_price": 253.99,
+                    "sale_price": "",
+                    "brand": "Золотой Стандарт"
+                },
+                {
+                    "id": 611456,
+                    "title": "Мороженое «Вологодский Пломбир» на вареной сгущенке БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-vologodskiy-plombir-na-varenoy-sgushchenke-100-g",
+                    "regular_price": 79.49,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 14327203,
+                    "title": "Мороженое эскимо Milk Republic Беларускi пламбiр с ароматом ванили на палочке 15% БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/mor-na-paloch-van-15-80g",
+                    "regular_price": 83.99,
+                    "sale_price": "",
+                    "brand": "Milk Republic"
+                },
+                {
+                    "id": 11707216,
+                    "title": "Мороженое «Коровка из Кореновки» пломбир двухслойный ваниль и манго-маракуйя БЗМЖ, 400 г",
+                    "url": "https://www.auchan.ru/product/mor_plom_mang_marak_400gkiz",
+                    "regular_price": 300.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 8274588,
+                    "title": "Мороженое «Каждый день» рожок крем-брюле ЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/kdmorozh_kr_br_rozhok_100g",
+                    "regular_price": 30.99,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 8274639,
+                    "title": "Мороженое «Каждый день» рожок ванильный ЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/kdmorozh_vanil_rozhok_100g",
+                    "regular_price": 28.98,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 616994,
+                    "title": "Мороженое сэндвич OREO Ванильное с кусочками печенья БЗМЖ, 76 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-oreo-sendvich-76-g",
+                    "regular_price": 99.99,
+                    "sale_price": "",
+                    "brand": "OREO"
+                },
+                {
+                    "id": 614962,
+                    "title": "Мороженое «Жемчужина России» эскимо с миндалем в шоколадной глазури БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-zhemchuzhina-rossii-eskimo-s-mindalem-v-shokoladnoy-glazuri-80-g",
+                    "regular_price": 84.99,
+                    "sale_price": "",
+                    "brand": "Жемчужина России"
+                },
+                {
+                    "id": 610811,
+                    "title": "Мороженое «Коровка из Кореновки» пломбир ванильный с клубникой в вафельном рожке БЗМЖ, 120 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-korovka-iz-korenovki-plombir-vanilnyy-s-klubnikoy-v-vafelnom-rozhke-120-g",
+                    "regular_price": 104.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 14327221,
+                    "title": "Мороженое эскимо «Вологодский пломбир» пломбир пюре с ароматом клубники, 80 г",
+                    "url": "https://www.auchan.ru/product/eskimo-vp-klubnika-malina-80g",
+                    "regular_price": 104.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 14372090,
+                    "title": "Мороженое «Жемчужина России» Рулет карамель с орехами, 400 г",
+                    "url": "https://www.auchan.ru/product/rulet-karamel-s-orehami-400gr",
+                    "regular_price": 304.99,
+                    "sale_price": "",
+                    "brand": "Жемчужина России"
+                },
+                {
+                    "id": 609377,
+                    "title": "Мороженое «Петрохолод» пломбир сливочный, 70 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-petroholod-plombir-slivochnyy-70-g",
+                    "regular_price": 39.99,
+                    "sale_price": "",
+                    "brand": "Петрохолод"
+                },
+                {
+                    "id": 18169856,
+                    "title": "Мороженое пломбир «Ленинградское» ванильный в шоколадно-сливочной взбитой глазури, 90 г",
+                    "url": "https://www.auchan.ru/product/lakomochka-leningradskoe-90g",
+                    "regular_price": 75.99,
+                    "sale_price": "",
+                    "brand": "Ленинградское"
+                },
+                {
+                    "id": 18114685,
+                    "title": "Мороженое «Свитлогорье» двухслойное пломбир Золотая ириска в вафельном рожке 15% БЗМЖ, 110 г",
+                    "url": "https://www.auchan.ru/product/mor-rozhok-van-ir-svitl-110bzmzh",
+                    "regular_price": 92.99,
+                    "sale_price": "",
+                    "brand": "Свитлогорье"
+                },
+                {
+                    "id": 8381651,
+                    "title": "Мороженое пломбир «Вкусландия» грецкий орех с кленовым сиропом, 450 г",
+                    "url": "https://www.auchan.ru/product/mor_kls_grecor_vkusl_450gbzmzh",
+                    "regular_price": 498.99,
+                    "sale_price": "",
+                    "brand": "Вкусландия"
+                },
+                {
+                    "id": 624000,
+                    "title": "Мороженое «Филевское» пломбир с грецким орехом и мягкой соленой карамелью БЗМЖ, 550 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-filevskoe-plombir-s-greckim-orehom-i-myagkoy-solenoy-karamelyu-550-g",
+                    "regular_price": 533.99,
+                    "sale_price": "",
+                    "brand": "Филевское"
+                },
+                {
+                    "id": 14150332,
+                    "title": "Мороженое пломбир «Чистая Линия» Ice Gravity Фантастическое крем-брюле с фундуком в белой глазури, 270 г",
+                    "url": "https://www.auchan.ru/product/mor-chl-plom-fant-kr-br-270bzmzh",
+                    "regular_price": 716.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 8383811,
+                    "title": "Мороженое пломбир «Хладокомбинат №1» шоколадный БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/vaf_stak_shokoladnyy70gr",
+                    "regular_price": 57.99,
+                    "sale_price": "",
+                    "brand": "Хладокомбинат №1"
+                },
+                {
+                    "id": 605933,
+                    "title": "Мороженое «Монарх» пломбир ванильный с прослойками шоколадной глазури рулет БЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-monarh-plombir-vanilnyy-s-prosloykami-shokoladnoy-glazuri-rulet-500-g",
+                    "regular_price": 338.99,
+                    "sale_price": "",
+                    "brand": "Монарх"
+                },
+                {
+                    "id": 18273614,
+                    "title": "Мороженое «48 Копеек» манго со сливками БЗМЖ, 94 г",
+                    "url": "https://www.auchan.ru/product/48-kopeek-stakan-mango-94g",
+                    "regular_price": 95.99,
+                    "sale_price": "",
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 18273613,
+                    "title": "Мороженое «48 Копеек» Эскимо пломбир в яблочной глазури БЗМЖ, 58 г",
+                    "url": "https://www.auchan.ru/product/48-kopeek-eskimo-yabloko-58g",
+                    "regular_price": 68.99,
+                    "sale_price": "",
+                    "brand": "48 Копеек"
+                },
+                {
+                    "id": 18169846,
+                    "title": "Мороженое пломбир «Как раньше» ванильный с шоколадной крошкой, 400 г",
+                    "url": "https://www.auchan.ru/product/paket-vanil-s-shokoladom-400g",
+                    "regular_price": 254.99,
+                    "sale_price": "",
+                    "brand": "Как раньше"
+                },
+                {
+                    "id": 17629201,
+                    "title": "Мороженое Burenka Club пломбир в вафельном стаканчике клубника БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/plomb-burenkaclub-st-klubn80",
+                    "regular_price": 74.99,
+                    "sale_price": "",
+                    "brand": "Burenka Club"
+                },
+                {
+                    "id": 633857,
+                    "title": "Мороженое пломбир «Айсберри» Вкусландия с Фисташковой пастой и кешью БЗМЖ, 450 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-aysberri-vkuslandiya-s-fistashkovoy-pastoy-i-keshyu-450-g",
+                    "regular_price": 423.99,
+                    "sale_price": "",
+                    "brand": "Вкусландия"
+                },
+                {
+                    "id": 10721898,
+                    "title": "Мороженое пломбир «Чистая Линия» рожок ванильный в шоколадной глазури, 70 г",
+                    "url": "https://www.auchan.ru/product/mor-rozh-van-shok-gl-70g-chlbzmzh",
+                    "regular_price": 118.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 18169867,
+                    "title": "Мороженое пломбир «Филевское» крем-брюле с мягкой карамелью в сахарном рожке, 100 г",
+                    "url": "https://www.auchan.ru/product/rozhok-krem-bryule-100g-filev",
+                    "regular_price": 109.99,
+                    "sale_price": "",
+                    "brand": "Филевское"
+                },
+                {
+                    "id": 629576,
+                    "title": "Мороженое пломбир «Гроспирон» Кедровый БЗМЖ, 410 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-grospiron-kedrovyy-410-g",
+                    "regular_price": 427.99,
+                    "sale_price": "",
+                    "brand": "Гроспирон"
+                },
+                {
+                    "id": 18169853,
+                    "title": "Мороженое пломбир «Как раньше» фисташковый с фисташками и кешью в глазури в сахарном рожке, 100 г",
+                    "url": "https://www.auchan.ru/product/rozhok-kak-ranshe-fistashka-100g",
+                    "regular_price": 110.99,
+                    "sale_price": "",
+                    "brand": "Как раньше"
+                },
+                {
+                    "id": 16770193,
+                    "title": "Мороженое пломбир «Лакомство Колибри» черника-мюсли БЗМЖ, 250 г",
+                    "url": "https://www.auchan.ru/product/mor-sliv-chernika-kolib-lot250g",
+                    "regular_price": 178.99,
+                    "sale_price": "",
+                    "brand": "Лакомство Колибри"
+                },
+                {
+                    "id": 620496,
+                    "title": "Мороженое эскимо Alpen Gold БЗМЖ, 58 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-alpen-gold-eskimo-58-g",
+                    "regular_price": 103.99,
+                    "sale_price": "",
+                    "brand": "Alpen Gold"
+                },
+                {
+                    "id": 900118,
+                    "title": "Мороженое «Коровка из Кореновки» пломбир ванильный с черной смородиной 15% БЗМЖ, 120 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-korovka-iz-korenovki-plombir-vanilnyy-s-chernoy-smorodinoy-15-120-g",
+                    "regular_price": 104.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 17629206,
+                    "title": "Мороженое Burenka Club пломбир эскимо в шок глазури с черной смородиной БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/eskimoburenkaclubch-sm-cher-gl70",
+                    "regular_price": 79.99,
+                    "sale_price": "",
+                    "brand": "Burenka Club"
+                },
+                {
+                    "id": 14150333,
+                    "title": "Мороженое пломбир «Чистая Линия» Ice Gravity Пиньята БЗМЖ, 270 г",
+                    "url": "https://www.auchan.ru/product/mor-chl-plomb-pinyata-270g-bzmzh",
+                    "regular_price": 735.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 8274702,
+                    "title": "Мороженое «Каждый день» шоколадное ЗМЖ, 1 кг",
+                    "url": "https://www.auchan.ru/product/kdmorozhenoe_shokolad_1000g",
+                    "regular_price": 189.98,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 614319,
+                    "title": "Мороженое пломбир «Филевское» ванильный в вафельном стаканчике БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-aysberri-filevskoe-vanilnyy-v-vafelnom-stakanchike-100-g",
+                    "regular_price": 48.99,
+                    "sale_price": "",
+                    "brand": "Филевское"
+                },
+                {
+                    "id": 615562,
+                    "title": "Мороженое «снежный ШАРиК» с ароматом фисташки ЗМЖ, 90 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-snezhnyy-sharik-s-aromatom-fistashki-90-g",
+                    "regular_price": 34.99,
+                    "sale_price": "",
+                    "brand": "Снежный Шарик"
+                },
+                {
+                    "id": 612249,
+                    "title": "Мороженое пломбир «ГОСТОВский» ванильный БЗМЖ, 400 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-gostovskiy-vanilnyy-400-g",
+                    "regular_price": 307.99,
+                    "sale_price": "",
+                    "brand": "ГОСТОВский"
+                },
+                {
+                    "id": 606160,
+                    "title": "Мороженое «Лакомство Колибри» ванильное в сахарном рожке ЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-kolibri-lakomstvo-v-saharnom-rozhke-100-g",
+                    "regular_price": 33.49,
+                    "sale_price": "",
+                    "brand": "КоЛибри"
+                },
+                {
+                    "id": 8274691,
+                    "title": "Мороженое «Каждый день» Ванильное ЗМЖ, 1 кг",
+                    "url": "https://www.auchan.ru/product/kdmorozh_vaniln_1000g_ppak",
+                    "regular_price": 189.98,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 609832,
+                    "title": "Мороженое «Вологодский пломбир» 15% БЗМЖ, 250 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-vologodskiy-plombir-15-250-g",
+                    "regular_price": 182.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 639337,
+                    "title": "Мороженое пломбир «Филевское» ванильный БЗМЖ, 450 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-filevskoe-plombir-vanilnyy-paket-450g",
+                    "regular_price": 243.49,
+                    "sale_price": "",
+                    "brand": "Филевское"
+                },
+                {
+                    "id": 610809,
+                    "title": "Мороженое пломбир «Коровка из Кореновки» крем-брюле в вафельном стакане БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-korovka-iz-korenovki-plombir-v-vafelnom-stakane-krem-bryule-100g",
+                    "regular_price": 84.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 619529,
+                    "title": "Мороженое «Лекарство для Карлсона» шоколадное с шоколадным топингом в контейнере ЗМЖ, 500 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-lekarstvo-dlya-karlsona-shokoladnoe-s-shokoladnym-topingom-v-konteynere-500-g",
+                    "regular_price": 230.99,
+                    "sale_price": "",
+                    "brand": "Лекарство для Карлсона"
+                },
+                {
+                    "id": 18266392,
+                    "title": "Мороженое пломбир «Карельский пломбир» пьяная вишня, 400 г",
+                    "url": "https://www.auchan.ru/product/morozh-plom-pyanaya-vishnya-400g",
+                    "regular_price": 308.99,
+                    "sale_price": "",
+                    "brand": "Карельский пломбир"
+                },
+                {
+                    "id": 619259,
+                    "title": "Мороженое пломбир «Вологодский пломбир» в вафлях БЗМЖ, 90 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-vologodskiy-plombir-plombir-v-vaflyah-90-g",
+                    "regular_price": 71.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 611697,
+                    "title": "Мороженое «Вологодский пломбир» с какао БЗМЖ, 130 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-vologodskiy-plombir-s-kakao-130-g",
+                    "regular_price": 113.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 10599150,
+                    "title": "Мороженое пломбир «Холод Славмо» Пьяная вишня, 70 г",
+                    "url": "https://www.auchan.ru/product/plombir-pyanaya-vishnya-70-gr",
+                    "regular_price": 62.99,
+                    "sale_price": "",
+                    "brand": "Славмо Холод"
+                },
+                {
+                    "id": 8383804,
+                    "title": "Мороженое пломбир «Хладокомбинат №1» ванильный сахарная трубочка в шоколадной глазури БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/sah_trub__krem_bryule_70gr",
+                    "regular_price": 75.99,
+                    "sale_price": "",
+                    "brand": "Хладокомбинат №1"
+                },
+                {
+                    "id": 8383805,
+                    "title": "Мороженое пломбир «Хладокомбинат №1» ванильный на сливках БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/vaf_stak_vanilnyy_70gr",
+                    "regular_price": 59.99,
+                    "sale_price": "",
+                    "brand": "Хладокомбинат №1"
+                },
+                {
+                    "id": 8383810,
+                    "title": "Мороженое пломбир «Хладокомбинат №1» с черной смородиной, 180 г",
+                    "url": "https://www.auchan.ru/product/briket_plom_s_cher_sm_180gr",
+                    "regular_price": 173.99,
+                    "sale_price": "",
+                    "brand": "Хладокомбинат №1"
+                },
+                {
+                    "id": 611620,
+                    "title": "Мороженое «НАСТОЯЩИЙ ПЛОМБИР» пломбир ванильный в плоском вафельном стаканчике БЗМЖ, 90 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-nastoyashchiy-plombir-plombir-vanilnyy-v-ploskom-vafelnom-stakanchike-90-g",
+                    "regular_price": 59.99,
+                    "sale_price": "",
+                    "brand": "НАСТОЯЩИЙ ПЛОМБИР"
+                },
+                {
+                    "id": 18169844,
+                    "title": "Мороженое пломбир «Как раньше» крем-брюле в шоколадной глазури, 80 г",
+                    "url": "https://www.auchan.ru/product/eskimo-krem-bryule-kak-ran-80g",
+                    "regular_price": 64.99,
+                    "sale_price": "",
+                    "brand": "Как раньше"
+                },
+                {
+                    "id": 620495,
+                    "title": "Мороженое «ГОСТОВский Пломбир» эскимо в шоколадной глазури БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-gostovskiy-plombir-eskimo-v-shokoladnoy-glazuri-70-g",
+                    "regular_price": 49.99,
+                    "sale_price": "",
+                    "brand": "ГОСТОВский"
+                },
+                {
+                    "id": 14150334,
+                    "title": "Мороженое пломбир «Чистая Линия» Ice Gravity десерт Анны Павловой ванильный с джемом из лесных ягод и безе меренгами БЗМЖ, 270 г",
+                    "url": "https://www.auchan.ru/product/mor-des-a-pavlovoy-270-chl-bzmzh",
+                    "regular_price": 550.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 10721897,
+                    "title": "Мороженое пломбир «Чистая Линия» Веселый Кактус ванильный с малиной эскимо 12%, 80 г",
+                    "url": "https://www.auchan.ru/product/mor-esk-vk-mal-gl-80gchl-bzmzh",
+                    "regular_price": 153.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 627897,
+                    "title": "Мороженое пломбир «Как раньше» ванильный с шоколадной крошкой БЗМЖ, 220 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plombir-kak-ranshe-vanilnyy-s-shokoladnoy-kroshkoy-220-g",
+                    "regular_price": 131.99,
+                    "sale_price": "",
+                    "brand": "Как раньше"
+                },
+                {
+                    "id": 618831,
+                    "title": "Мороженое «Филевское» Бисконтино с шоколадным топпингом БЗМЖ, 550 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-filevskoe-biskontino-s-shokoladnym-toppingom-550-g",
+                    "regular_price": 529.99,
+                    "sale_price": "",
+                    "brand": "Филевское"
+                },
+                {
+                    "id": 18169869,
+                    "title": "Мороженое пломбир «Зелёна-Бурёна» Стаканчик крем-брюле 15% БЗМЖ, 70 г",
+                    "url": "https://www.auchan.ru/product/stakanchik-krem-bryul-15-70g-zb",
+                    "regular_price": 72.99,
+                    "sale_price": "",
+                    "brand": "Зелёна-Бурёна"
+                },
+                {
+                    "id": 605499,
+                    "title": "Мороженое «Колибри» Лакомство ванильное с шоколадной крошкой в ведре ЗМЖ, 850 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-kolibri-lakomstvo-vanilnoe-s-shokoladnoy-kroshkoy-v-vedre-850-g",
+                    "regular_price": 351.99,
+                    "sale_price": "",
+                    "brand": "КоЛибри"
+                },
+                {
+                    "id": 17629199,
+                    "title": "Мороженое Burenka Club пломбир в вафельном стаканчике ванильный БЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/plomb-burenkaclub-st-vanil80",
+                    "regular_price": 69.99,
+                    "sale_price": "",
+                    "brand": "Burenka Club"
+                },
+                {
+                    "id": 11315830,
+                    "title": "Мороженое пломбир «Коровка из Кореновки» двухслойный шоколадный и ванильное 15%, 400 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-plomb-2h-cv-400g",
+                    "regular_price": 274.99,
+                    "sale_price": "",
+                    "brand": "Коровка из Кореновки"
+                },
+                {
+                    "id": 626509,
+                    "title": "Мороженое «Вологодский пломбир» шоколадное БЗМЖ, 100 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-vologodskiy-plombir-shokoladnoe-100-g",
+                    "regular_price": 91.99,
+                    "sale_price": "",
+                    "brand": "Вологодский пломбир"
+                },
+                {
+                    "id": 612511,
+                    "title": "Мороженое «Филевское» пломбир ванильный в шоколадной глазури в сахарном рожке БЗМЖ, 60 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-filevskoe-plombir-vanilnyy-v-shokoladnoy-glazuri-v-saharnom-rozhke-60-g",
+                    "regular_price": 43.99,
+                    "sale_price": "",
+                    "brand": "Филевское"
+                },
+                {
+                    "id": 8274541,
+                    "title": "Мороженое «Каждый день» крем-брюле ЗМЖ, 1 кг",
+                    "url": "https://www.auchan.ru/product/kdmorozh_krem_bryule_1000g_pp",
+                    "regular_price": 199.99,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                },
+                {
+                    "id": 610025,
+                    "title": "Мороженое «Чистая Линия» пломбир Радуга, 90 г",
+                    "url": "https://www.auchan.ru/product/morozhenoe-chistaya-liniya-plombir-raduga-90-g",
+                    "regular_price": 107.99,
+                    "sale_price": "",
+                    "brand": "Чистая Линия"
+                },
+                {
+                    "id": 13093262,
+                    "title": "Мороженое «Каждый день» брикет ЗМЖ, 80 г",
+                    "url": "https://www.auchan.ru/product/kd-morozhenoe-briket-80g-szmzh",
+                    "regular_price": 25.98,
+                    "sale_price": "",
+                    "brand": "Каждый день"
+                }
+            ]
+        }
+    ]
+}
