@@ -35,7 +35,12 @@ SAINT_PETERSBURG = {
     "region_id": 2,
     "gashop": "102_Parnas",
 }
-
+YAROSLAVL = {
+    "name": "yaroslavl",
+    "merchant_id": 61,
+    "region_id": 1,
+    "gashop": "61_Vernisag",
+}
 
 async def fetch(url, params):
     headers = params["headers"]
@@ -64,7 +69,7 @@ async def get_url_and_params(
         "Referer": "https://www.auchan.ru/catalog/morozhenoe/plombir/",
         "Referrer-Policy": "strict-origin-when-cross-origin"
     },
-        "body": "{\"filter\":{\"category\":\"plombir_2\",\"promo_only\":false,\"active_only\":true,\"cashback_only\":false}}",
+        "body": "{\"filter\":{\"category\":\"vodka\",\"promo_only\":false,\"active_only\":true,\"cashback_only\":false}}",
     }
 
     return url, params
@@ -100,12 +105,16 @@ async def parse_city_merchant(city: dict):
 
         for item in items:
             item_dict: dict = {
-                "id": item["id"],
+                # "id": item["id"],
                 "title": item["title"],
+                "catalogImageUrl": item["catalogImageUrl"],
                 "url": f"https://www.auchan.ru/product/{item['code']}",
                 "regular_price": item["oldPrice"]["value"] if item.get("oldPrice") else item["price"]["value"],
+                "discount": item["discount"]["size"] if item.get("discount") else "",
                 "sale_price": item["price"]["value"] if item.get("discount") else "",
                 "brand": item["brand"]["name"],
+                "stock": item["stock"]["qty"],
+                "description": item["description"]["content"]
             }
 
             city_items["results"].append(item_dict)
@@ -130,12 +139,13 @@ async def main():
     current_time = datetime.now().strftime("%d_%m_%Y_%H_%M")
 
     await asyncio.gather(
-        parse_city_merchant(MOSCOW),
-        parse_city_merchant(SAINT_PETERSBURG),
+        # parse_city_merchant(MOSCOW),
+        # parse_city_merchant(SAINT_PETERSBURG),
+        parse_city_merchant(YAROSLAVL),
     )
 
     with open(
-            f"./jsons/auchan_plombir_{current_time}.json", "w",
+            f"./jsons/result_{current_time}.json", "w",
             encoding="utf-8"
     ) as file:
         json.dump(MAIN_DICT, file, indent=4, ensure_ascii=False)
